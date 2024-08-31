@@ -1,7 +1,7 @@
 +++
 title = 'El realengo'
 date = 2024-08-30T07:07:07+01:00
-draft = true
+draft = false
 +++
 
 En los predios de los paisajes dominicanos, se ve a andar un especimen de la fauna dominicana, el homo sapiens realengus, o carinosamente, el realengo.
