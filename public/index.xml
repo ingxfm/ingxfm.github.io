@@ -6,8 +6,15 @@
     <description>Recent content on ingxfm</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2024 21:46:07 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 19:55:59 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 31 Aug 2024 19:55:59 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I&amp;rsquo;m 9-to-5ing.</description>
+    </item>
     <item>
       <title>El realengo</title>
       <link>http://localhost:1313/posts/realengo/</link>
