@@ -1,4 +1,6 @@
 baseURL = 'https://ingxfm.github.io'
 languageCode = 'en-us'
 title = 'ingxfm'
+[params]
+  subtitle = 'Remembering myself of what I should be doing! '
 theme = 'hugo-bearblog'
