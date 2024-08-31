@@ -1,6 +1,12 @@
 baseURL = 'https://ingxfm.github.io'
 languageCode = 'en-us'
 title = 'ingxfm'
+
+copyright = "Copyright © 2024"
+theme = 'hugo-PaperMod'
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
 [params]
   subtitle = 'Remembering myself of what I should be doing! '
-theme = 'hugo-bearblog'
