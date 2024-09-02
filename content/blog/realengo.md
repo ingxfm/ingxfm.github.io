@@ -6,7 +6,18 @@ draft = false
 
 En los predios de los paisajes dominicanos, se ve a andar un especimen de la fauna dominicana, el homo sapiens realengus, o cariñosamente, el realengo.
 
-Este personaje le vale madres el derecho ajeno, y en un ambiente como el dominicano, le encanta pavonear su kitipo a todo volumen. No importa que usted llegué cansado de su trabajo, este cristiano sin Cristo, le va a hacer escuchar sus sinfonías dembowseras.
+Este personaje le vale madres el derecho ajeno. No importa que usted llegué cansado de su trabajo, este cristiano sin Cristo, le va a hacer vibrar sus timpanos con su estruendoso trinar.
 
-Este personaje tiene un corazón grande para los kitipo'.
+De acuerdo a la RAE, el realengo es:
+![alt text](image.png)
 
+Haciendo un locrío de las definiciones 3 y 4, más la observación ampliemos la definición del realengo a un holgazán o manganzón que no tiene hogar. 
+
+Su hábitat natural es la calle de las zonas urbanas. Le gusta andar con pantalones medio bajados de manera que se le pueda ver el trasero.
+
+Sus hábitos de cortejo incluyen pavonear su kitipo a todo volumen, sanantonios, y la típica: "¡En mi casa, you hago lo que me de mi %$#@+ gana!"
+
+¡Cuidado con el realengo! Se puede tornar violento.
+
+# References
+- https://dle.rae.es/realengo?m=form
