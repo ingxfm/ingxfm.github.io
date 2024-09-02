@@ -9,7 +9,7 @@ En los predios de los paisajes dominicanos, se ve a andar un especimen de la fau
 Este personaje le vale madres el derecho ajeno. No importa que usted llegué cansado de su trabajo, este cristiano sin Cristo, le va a hacer vibrar sus timpanos con su estruendoso trinar.
 
 De acuerdo a la RAE, el realengo es:
-![alt text](image.png)
+![alt text](static/image.png)
 
 Haciendo un locrío de las definiciones 3 y 4, más la observación ampliemos la definición del realengo a un holgazán o manganzón que no tiene hogar. 
 
