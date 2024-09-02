@@ -13,7 +13,7 @@ De acuerdo a la RAE, el realengo es:
 
 Haciendo un locrío de las definiciones 3 y 4, más la observación ampliemos la definición del realengo a un holgazán o manganzón que no tiene hogar. 
 
-Su hábitat natural es la calle de las zonas urbanas. Le gusta andar con pantalones medio bajados de manera que se le pueda ver el trasero.
+Su hábitat natural es la calle de las zonas urbanas. Le gusta andar con pantalones medio bajados de manera que se le puedan ver los pantaloncillos.
 
 Sus hábitos de cortejo incluyen pavonear su kitipo a todo volumen, sanantonios, y la típica: "¡En mi casa, you hago lo que me de mi %$#@+ gana!"
 
