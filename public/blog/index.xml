@@ -4,19 +4,22 @@
     <title>Blogs on ingxfm</title>
     <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on ingxfm</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.134.0</generator>
     <language>en-us</language>
     <copyright>Copyright © 2024</copyright>
     <lastBuildDate>Fri, 30 Aug 2024 07:07:07 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>El realengo</title>
+      <title>El realengo y sus beneficios</title>
       <link>http://localhost:1313/blog/realengo/</link>
       <pubDate>Fri, 30 Aug 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/blog/realengo/</guid>
-      <description>En los predios de los paisajes dominicanos, se ve a andar un especimen de la fauna dominicana, el homo sapiens realengus, o cariñosamente, el realengo.
-Este personaje le vale madres el derecho ajeno. No importa que usted llegué cansado de su trabajo, este cristiano sin Cristo, le va a hacer vibrar sus timpanos con su estruendoso trinar.
-De acuerdo a la RAE, el realengo es: Haciendo un locrío de las definiciones 3 y 4, más la observación ampliemos la definición del realengo a un holgazán o manganzón que no tiene hogar.</description>
+      <description>&lt;p&gt;En los predios de los paisajes dominicanos, se ve a andar un especimen de la fauna dominicana, el homo sapiens realengus, o cariñosamente, el realengo.&lt;/p&gt;
+&lt;p&gt;El realengo aporta beneficios al medio ambiente y a la salud pública.&lt;/p&gt;
+&lt;p&gt;De acuerdo a la RAE, el realengo es:
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/image.png&#34; alt=&#34;Definiciones de la RAE 30.08.24 https://dle.rae.es/realengo?m=form&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Haciendo un locrío de las definiciones 3 y 4, más la observación ampliemos la definición del realengo a un holgazán o manganzón que no tiene hogar.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
