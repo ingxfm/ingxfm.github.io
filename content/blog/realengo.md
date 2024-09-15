@@ -29,5 +29,5 @@ Este espécimen aporta mucho al buen vivir en la querida jungla dominicana.
 
 Nota: ningún sujeto fue maltratado para la realización de este escrito.
 
-**References**
+**Referencias**
 - https://dle.rae.es/realengo?m=form
