@@ -12,7 +12,7 @@ This is a practical How-to book that explains how to read better if our goal is 
 
 Entertainment and facts gathering was all that I was doing while reading since my childhood until now, instead of reading. There is nothing wrong with reading for amusement, but I was not lifting myself as much as I could "from understanding less to understanding more". 
 
-For this purpose, one must choose books that are above our head (specially those kinds of books). Books that you would read over and over and each time learn something new. These books are different for each person. It’s not so important to read widely, but to read a few books deeply is paramount.
+For this purpose, we must choose books that are above our head (specially those kinds of books). Books that we would read over and over and each time learn something new. These books are different for each person. It’s not so important to read widely, but to read a few books deeply is paramount.
 
 The framework proposed in this book divides reading in several levels: elementary, inspectional, analytical and syntopical.
 
@@ -22,7 +22,7 @@ A quick improvement is to do inspectional reading. With this approach:
 1. Check the title, the cover, the preface, the intro and/or the prologue.
 2. Then, study the table of contents. Check the index. Check the publisher's blurb. 
 3. From the knowledge we gain from these checks, we choose the chapters that look pivotal. If these chapters contain summaries read them. 
-4. Now, peruse around the different chapters stopping here and there and reading a few sentences that catch your attention. The authors recommend to check the last 2 or 3 paragraphs of each chapter because authors tend to summarize their main points at the end of chapters. 
+4. Now, peruse around the different chapters stopping here and there and reading a few sentences that catch our attention. The authors recommend to check the last 2 or 3 paragraphs of each chapter because authors tend to summarize their main points at the end of chapters. 
 5. Then check the conclusion and/or epilogue. Do this process in 20 to 40 minutes, at most 60 minutes.
 
 Of course, we would not apply this approach to novels or stories, completely. We would not want to spoil ourselves the fun of the discovering the end. But, we can still apply the other parts of the inspectional reading.
@@ -33,7 +33,7 @@ We can now answer what type of book it is:
 
 Furthermore, we can decide if we want to read it at all. This is one of the points that most called my attention. We can decide after this inspection that we won’t continue to read the book at all.
 
-Once you have decided that you want to continue, we can apply the analytical reading. We need to ask these 4 questions to the book:
+Once we have decided that we want to continue, we can apply the analytical reading. We need to ask these 4 questions to the book:
 
 1. What is the book about as whole?
 2. What is being said in detail and how?
