@@ -29,7 +29,7 @@ Of course, we would not apply this approach to novels or stories, completely. We
 
 We can now answer what type of book it is: 
 1. Practical/how-to or theoretical,
-2. on philosophy, science, math, novel, poetry, reference. 
+2. On philosophy, science, math, novel, poetry, reference. 
 
 Furthermore, we can decide if we want to read it at all. This is one of the points that most called my attention. We can decide after this inspection that we won’t continue to read the book at all.
 
