@@ -1,12 +1,45 @@
 baseURL = 'https://ingxfm.github.io/'
-languageCode = 'en-us'
-title = 'ingxfm'
-
+languageCode = 'en-US'
+title = 'Home'
 copyright = "Copyright © 2024"
 theme = 'hugo-PaperMod'
 
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 
-[params]
-  subtitle = 'Remembering myself of what I should be doing! '
+# Default language settings
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageName = 'English'
+    title = 'ingxfm'
+    weight = 1
+    [languages.en.params]
+      subtitle = 'Reminding what I should be doing! '
+  [languages.es]
+    contentDir = 'content/es'
+    disabled = false
+    languageCode = 'es-419'
+    languageName = 'Español'
+    title = 'ingxfm'
+    weight = 2
+    [languages.es.params]
+      subtitle = ' ¡Recordando lo que debería estar haciendo! '
+
+[menu]
+  [[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  url = "/about/"
+  weight = 1
+
+  [[menu.main]]
+  identifier = 'blog'
+  name = 'Blog'
+  url = "/blog/"
+  weight = 2

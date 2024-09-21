@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on ingxfm</title>
+    <link>http://localhost:1313/es/</link>
+    <description>Recent content in Home on ingxfm</description>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>es-419</language>
+    <copyright>Copyright © 2024</copyright>
+    <lastBuildDate>Sat, 31 Aug 2024 19:55:59 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/es/about/</link>
+      <pubDate>Sat, 31 Aug 2024 19:55:59 +0200</pubDate>
+      <guid>http://localhost:1313/es/about/</guid>
+      <description>&lt;p&gt;Haciendo el 9-a-5.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>El realengo y sus beneficios</title>
+      <link>http://localhost:1313/es/blog/realengo/</link>
+      <pubDate>Fri, 30 Aug 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/es/blog/realengo/</guid>
+      <description>&lt;p&gt;Con regularidad, se ve andar por los predios del país a un espécimen de la fauna dominicana, el homo sapiens realengus, o cariñosamente, el realengo.&lt;/p&gt;
+&lt;p&gt;El realengo aporta beneficios al medio ambiente y a la salud pública.&lt;/p&gt;
+&lt;p&gt;De acuerdo a la RAE, el realengo es:
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/image.png&#34; alt=&#34;Definiciones de la RAE 30.08.24 https://dle.rae.es/realengo?m=form&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Haciendo un locrío de las definiciones 3 y 4, más la observación, ampliemos la definición del realengo a un holgazán o manganzón que no tiene hogar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
