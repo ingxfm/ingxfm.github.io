@@ -34,7 +34,9 @@ We can now answer what type of book it is:
 
 Furthermore, we can decide if we want to read it at all. This is one of the points that most called my attention. We can decide after this inspection that we won’t continue to read the book at all.
 
-Once we have decided that we want to continue, we can apply the analytical reading. We need to ask these 4 questions to the book:
+Once we have decided that we want to continue, we will do a superficial reading. That is, we will read quickly from start to finish without stopping en parts we do not understand. We will let the job of understanding these parts for second reading. For now, we will take notes of passages that have called our attention y mark those parts that we want to come back to later. Let's not stop because we do not understand a specific word.
+
+Now, we can apply the analytical reading. We need to ask these 4 questions to the book:
 
 1. What is the book about as whole?
 2. What is being said in detail and how?
