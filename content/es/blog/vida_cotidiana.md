@@ -37,5 +37,7 @@ Pues, ya sabes pueblerino. Tienes la influencia para reparar una parte de 2 de l
 2. Bájale el volumen al kitipo en casa o en el colmado.
 3. En esto si te digo que le escribamos a los túrpenes para ver si hacen algo. No tengo mucha esperanza en esto último.
 
+O, ¡saca pie!
+
 ¡Salud!
 
