@@ -1,7 +1,7 @@
 +++
 title = 'Vida cotidiana'
 date = 2024-09-25T05:16:15+02:00
-draft = true
+draft = false
 lang = 'es'
 +++
 
