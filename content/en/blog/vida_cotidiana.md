@@ -1,5 +1,5 @@
 ﻿+++
-title = 'Vida_cotidiana'
+title = 'Hood everyday life'
 date = 2024-09-25T06:11:08+02:00
 draft = true
 lang = 'en'
