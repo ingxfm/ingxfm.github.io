@@ -7,11 +7,11 @@ lang = 'en'
 
 Everyday life in the hood is so much better when we tamper down our hormones. I have tested it myself. 
 
-I used to live in a hood where normal everyday people would throw trash anywhere. Furthermore, they would blast their music at eardrum-damaging volume. Moreover, you were always worried someone was going to ask you with a lack of courteousy to hand him over the nice looking belongings you were carrying, even midday.
+I used to live in a hood where normal everyday people would throw trash anywhere. Furthermore, they would blast their music at eardrum-damaging volume. Moreover, you were always worried someone was going to ask you with a lack of courtesy to hand him over the nice looking belongings you were carrying, even midday.
 
 ## Trash
 
-If you are one of those guys adorning the streets and rivers with your litter, I have a special place for you in my personal imagined version of hell... ah sorry. I meant that you can fix it, in your hands you have the power to change this. Yes, there is a part for the government here, but I'm focusing of what you can do, not what the big fishes should be doing.
+If you are one of those guys adorning the streets and rivers with your litter, I have a special place for you in my personal imagined version of hell... ah sorry. I meant that you can fix it, in your hands you have the power to change this. Yes, there is a part for the government here, but I'm focusing of what you can do, not what the big fishes should be doing. The trash that you litter will come back in form of non-potable water.
 
 ## Noise
 
