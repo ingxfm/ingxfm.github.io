@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on ingxfm</title>
+    <link>http://localhost:1313/en/blog/</link>
+    <description>Recent content in Blogs on ingxfm</description>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024</copyright>
+    <lastBuildDate>Wed, 25 Sep 2024 06:11:08 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hood&#39;s everyday life</title>
+      <link>http://localhost:1313/en/blog/vida_cotidiana/</link>
+      <pubDate>Wed, 25 Sep 2024 06:11:08 +0200</pubDate>
+      <guid>http://localhost:1313/en/blog/vida_cotidiana/</guid>
+      <description>&lt;p&gt;Everyday life in the hood is so much better when we tamper down our hormones. I have tested it myself.&lt;/p&gt;
+&lt;p&gt;I used to live in a hood where normal everyday people would throw trash anywhere. Furthermore, they would blast their music at eardrum-damaging volume. Moreover, you were always worried someone was going to ask you with a lack of courtesy to hand him over the nice looking belongings you were carrying, even midday.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to read a Book by Mortimer Adler</title>
+      <link>http://localhost:1313/en/blog/how_to_read_a_book_ma/</link>
+      <pubDate>Fri, 20 Sep 2024 18:54:18 +0200</pubDate>
+      <guid>http://localhost:1313/en/blog/how_to_read_a_book_ma/</guid>
+      <description>&lt;p&gt;There is a book close to my heart because it dawned on me how below average one can act. In my search for being less stupid, I read “How to read a book by Mortimer Adler and Charles Van Doren (edition 1972)”. Let&amp;rsquo;s call this book HRB.&lt;/p&gt;
+&lt;p&gt;Notes:&lt;/p&gt;
+&lt;p&gt;This is a practical How-to book that explains how to read better if our goal is lifting our mind from understanding less to understanding more, to knowing more about life, the world, and ourselves. “Know thyself” someone said.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
