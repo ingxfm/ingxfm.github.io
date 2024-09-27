@@ -1,6 +1,6 @@
-+++
-title = 'Tail_linux_ubuntu'
-date = 2024-09-27T18:00:00+02:00
+﻿+++
+title = 'Linux command Tail: useful for monitoring log text files'
+date = 2024-09-27T08:00:00+02:00
 draft = true
 lang = 'en'
 +++
@@ -31,4 +31,6 @@ For knowing more about the command tail, enter "tail --help" or "man tail" in th
 
 # Conclusion
 
-The command "tail" is useful for checking text in linux and for monitoring log files. The bad news is that we cannot monitor all log files with tail, though. Since the inception of systemd, many log files are now binaries, which tail cannot read. For that kind of logs, we need to use journalctl. Soon, I will write about that one.
+The command "tail" is useful for checking text in Linux and for monitoring log files. The bad news is that we cannot monitor all log files with tail, though. Since the inception of systemd, many log files are now binaries, which tail cannot read. For that kind of logs, we need to use journalctl. Soon, I will write about that one.
+
+Iubilate!

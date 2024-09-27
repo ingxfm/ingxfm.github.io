@@ -7,8 +7,18 @@
     <generator>Hugo -- 0.134.3</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Wed, 25 Sep 2024 06:11:08 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 08:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux command Tail: useful for monitoring log text files</title>
+      <link>http://localhost:1313/en/blog/tail_linux_ubuntu/</link>
+      <pubDate>Fri, 27 Sep 2024 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/en/blog/tail_linux_ubuntu/</guid>
+      <description>&lt;p&gt;When monitoring any program logs in Ubuntu or in many Linux based operating systems one can use the tail command. The tail command outputs the last lines of a text file.&lt;/p&gt;
+&lt;p&gt;Enter the command in the shell program.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-Shell&#34; data-lang=&#34;Shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;tail /&amp;lt;path&amp;gt;/logfile.log
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;By default, the tail command will show the last 10 lines. If you want to specify the number of lines, enter the command with the flag &amp;ldquo;-n&amp;rdquo;, in the following way:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hood&#39;s everyday life</title>
       <link>http://localhost:1313/en/blog/vida_cotidiana/</link>
