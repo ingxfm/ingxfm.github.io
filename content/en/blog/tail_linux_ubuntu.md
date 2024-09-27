@@ -1,7 +1,7 @@
 ﻿+++
 title = 'Linux command Tail: useful for monitoring log text files'
 date = 2024-09-27T08:00:00+02:00
-draft = true
+draft = false
 lang = 'en'
 +++
 

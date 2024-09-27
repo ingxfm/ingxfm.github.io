@@ -1,7 +1,7 @@
 +++
 title = 'Comando en Linux Tail: útil para monitorear archivos de registro/log en texto'
 date = 2024-09-27T14:16:42+02:00
-draft = true
+draft = false
 lang = 'es'
 +++
 
