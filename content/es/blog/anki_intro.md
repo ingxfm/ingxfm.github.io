@@ -1,7 +1,7 @@
 +++
 title = 'Repetición espaciada, curva del olvido y Anki'
 date = 2024-10-02T21:56:49+02:00
-draft = true
+draft = false
 lang = 'es'
 +++
 

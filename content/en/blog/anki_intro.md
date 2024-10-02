@@ -1,7 +1,7 @@
 +++
 title = 'Spaced repetition, forgetting curve and Anki'
 date = 2024-10-02T21:56:43+02:00
-draft = true
+draft = false
 lang = 'en'
 +++
 
