@@ -4,11 +4,19 @@
     <title>Home on ingxfm</title>
     <link>http://localhost:1313/en/</link>
     <description>Recent content in Home on ingxfm</description>
-    <generator>Hugo -- 0.134.3</generator>
+    <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Fri, 27 Sep 2024 08:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 21:56:43 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spaced repetition, forgetting curve and Anki</title>
+      <link>http://localhost:1313/en/blog/anki_intro/</link>
+      <pubDate>Wed, 02 Oct 2024 21:56:43 +0200</pubDate>
+      <guid>http://localhost:1313/en/blog/anki_intro/</guid>
+      <description>&lt;p&gt;Have you ever studied a new material, and have forgotten almost immediately after using it (for work, or for an exam)? Have you ever forgotten something you thought you had understood well? Are you trying to learn a new language and forget the new vocabulary all the time?&lt;/p&gt;
+&lt;p&gt;Well, that happens to me, as well. You are not alone. In my case, I have found a solution in the form of a technique, the so-called spaced repetition.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Linux command Tail: useful for monitoring log text files</title>
       <link>http://localhost:1313/en/blog/tail_linux_ubuntu/</link>
