@@ -7,8 +7,18 @@
     <generator>Hugo -- 0.135.0</generator>
     <language>es-419</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Wed, 02 Oct 2024 21:56:49 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 11:01:10 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hobbies para ingenieros/as</title>
+      <link>http://localhost:1313/es/blog/hobbies_for_engineers/</link>
+      <pubDate>Fri, 04 Oct 2024 11:01:10 +0200</pubDate>
+      <guid>http://localhost:1313/es/blog/hobbies_for_engineers/</guid>
+      <description>&lt;p&gt;¿Trabajas como ingeniero/a y quieras encontrar un hobby en el que practiques fuera del trabajo alguno de los principios de matemáticas, ciencias naturales y sociales que has aprendido?&lt;/p&gt;
+&lt;h2 id=&#34;carros-coches&#34;&gt;Carros (coches)&lt;/h2&gt;
+&lt;p&gt;Las posibilidades son muchas. ¿Qué tal hacerle los mantenimientos a tu vehículo (con tus propias manos)? ¿Qué tal hacerle algunas modificaciones a las luces, o las suspensiones?&lt;/p&gt;
+&lt;p&gt;Más aún, podrías hacer casas móviles a partir de vans. Vas a tener que considerar si vas a usar aislamientos térmicos o auditivos dependiendo del clima donde quieras utilizarlas.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Repetición espaciada, curva del olvido y Anki</title>
       <link>http://localhost:1313/es/blog/anki_intro/</link>

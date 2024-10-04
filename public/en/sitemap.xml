@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/blog/</loc>
-    <lastmod>2024-10-02T21:56:43+02:00</lastmod>
+    <lastmod>2024-10-04T11:01:15+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-419"
@@ -13,6 +13,19 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/blog/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/hobbies_for_engineers/</loc>
+    <lastmod>2024-10-04T11:01:15+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-419"
+                href="http://localhost:1313/es/blog/hobbies_for_engineers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/blog/hobbies_for_engineers/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/blog/anki_intro/</loc>

@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Wed, 02 Oct 2024 21:56:43 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 11:01:15 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hobbies for engineers</title>
+      <link>http://localhost:1313/en/blog/hobbies_for_engineers/</link>
+      <pubDate>Fri, 04 Oct 2024 11:01:15 +0200</pubDate>
+      <guid>http://localhost:1313/en/blog/hobbies_for_engineers/</guid>
+      <description>&lt;p&gt;Do you work as an engineer and want to pick a hobby so that you can put in practice outside of work some of the math, natural and/or social science principles you have learned? Let&amp;rsquo;s take a look at some nice hobby ideas.&lt;/p&gt;
+&lt;h2 id=&#34;cars&#34;&gt;Cars&lt;/h2&gt;
+&lt;p&gt;There are many possibilities related to these vehicles. What about getting involved in the maintenance of the car? What about some modifications to the headlights, or the suspensions?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Spaced repetition, forgetting curve and Anki</title>
       <link>http://localhost:1313/en/blog/anki_intro/</link>
