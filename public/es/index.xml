@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.135.0</generator>
     <language>es-419</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Fri, 04 Oct 2024 11:01:10 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 17:19:59 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Técnicas de estudio</title>
+      <link>http://localhost:1313/es/blog/tecnicas_de_estudio/</link>
+      <pubDate>Wed, 09 Oct 2024 17:19:59 +0200</pubDate>
+      <guid>http://localhost:1313/es/blog/tecnicas_de_estudio/</guid>
+      <description>&lt;p&gt;¿Quieres mejorar tus notas, y no sabes qué hacer? Más aún, ¿quieres mejorarlas y estudiar por menos tiempo? ¿Quieres pasar de ser un estudiante mediocre con puros 70s, a 75, 80 o quién sabe si más? ¿Quieres tener esas notas sin tener que sacrificar tu tiempo para jugar con tus amigos? O, ¿eres padre y quieres ayudar a tus hijos a mejorar un poco sus calificaciones? O, ¿eres profesora y quieres mejorar los resultados de tus estudiantes en las pruebas PISA?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hobbies para ingenieros/as</title>
       <link>http://localhost:1313/es/blog/hobbies_for_engineers/</link>
