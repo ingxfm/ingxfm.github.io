@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Fri, 04 Oct 2024 11:01:15 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 18:30:12 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spectacle: How to report a KDE bug?</title>
+      <link>http://localhost:1313/en/blog/spectacle_bug/</link>
+      <pubDate>Fri, 11 Oct 2024 18:30:12 +0200</pubDate>
+      <guid>http://localhost:1313/en/blog/spectacle_bug/</guid>
+      <description>&lt;p&gt;Once upon a time, le moi was writing his Friday article. This poor soul needed a few screenshots and lo and behold his Spectacle tool presented a not so spectacular behavior. Spectacle required the following actions to make one screenshot: open Spectacle -&amp;gt; Area: Rectangular Region -&amp;gt; click on Take a New Screenshot, the mouse pointer disappears, then open again Spectacle from Super -&amp;gt; click again Take a New Screenshot, then I can see the pointer normally. So, for the price of 2 screenshots I got one. Makes sense since we are near the November&amp;rsquo;s black Friday.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hobbies for engineers</title>
       <link>http://localhost:1313/en/blog/hobbies_for_engineers/</link>

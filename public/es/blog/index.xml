@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.135.0</generator>
     <language>es-419</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Wed, 09 Oct 2024 17:19:59 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 18:29:10 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/es/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spectacle: ¿Cómo reportar un defecto de software (bug)?</title>
+      <link>http://localhost:1313/es/blog/spectacle_bug/</link>
+      <pubDate>Fri, 11 Oct 2024 18:29:10 +0200</pubDate>
+      <guid>http://localhost:1313/es/blog/spectacle_bug/</guid>
+      <description>&lt;p&gt;Erase una vez, le moi estaba escribiendo su artículo de los Viernes. Está pobre alma necesitaba unos cuantas imágenes de pantalla, y contemplen usted que su Spectacle no presentó un comportamiento no muy espectacular. Spectacle necesitó de las siguientes acciones para hacer una sola captura de pantalla: abrir Spectacle -&amp;gt; Area: Rectangular Region -&amp;gt; hacer clic en Take a New Screenshot, el puntero del mouse desaparece y no se ve el modo de captura de pantalla, entonces tengo que abrir Spectacle de nuevo desde el menú principal con la tecla Super -&amp;gt; cliquear nuevamente en Take a New Screenshot, entonces pude ver el puntero y el modo de captura de pantalla normalmente. Por lo tanto, por el precio de 2 capturas, conseguí 1. Me hace sentido, ya que estamos cercanos a las ofertas del Black Friday en Noviembre.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Técnicas de estudio</title>
       <link>http://localhost:1313/es/blog/tecnicas_de_estudio/</link>
