@@ -1,6 +1,6 @@
 +++
 title = 'Spectacle: How to report a KDE bug?'
-date = 2024-10-11T18:30:12+02:00
+date = 2024-10-11T18:29:10+02:01
 draft = false
 lang = 'en'
 +++
