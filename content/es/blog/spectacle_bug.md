@@ -81,7 +81,7 @@ dpkg -l | grep libqt
 ```
 
 O en Kubuntu, ve a System settings -> About this System.
-[text](../../../static/img/about_this_system_spectacle_bug)
+[text](../../../static/img/about_this_system_spectacle_bug.png)
 
 # Conclusión
 Algunas veces, nos proponemos reparar algo, pero rápidamente nos damos cuenta que no podemos hacerlo por completo porque hay un defecto de software. Reportemos estos casos. Ojalá, la comunidad KDE le echará un ojo a esto. O probablemente ya haya sido resuelto en Kubuntu 22.04. De todas formas, déjame terminar mi artículo del Viernes.
