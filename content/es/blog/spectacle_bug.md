@@ -1,7 +1,7 @@
 +++
 title = 'Spectacle: ¿Cómo reportar un defecto de software (bug)?'
 date = 2024-10-11T18:29:10+02:00
-draft = true
+draft = false
 lang = 'es'
 +++
 
