@@ -4,11 +4,41 @@
     <title>Blogs on ingxfm</title>
     <link>http://localhost:1313/es/blog/</link>
     <description>Recent content in Blogs on ingxfm</description>
-    <generator>Hugo -- 0.136.1</generator>
+    <generator>Hugo -- 0.136.2</generator>
     <language>es-419</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Wed, 16 Oct 2024 21:37:53 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 22:08:48 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/es/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No te veo en el Inicio</title>
+      <link>http://localhost:1313/es/blog/zotero_start_menu/</link>
+      <pubDate>Fri, 18 Oct 2024 22:08:48 +0200</pubDate>
+      <guid>http://localhost:1313/es/blog/zotero_start_menu/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/paint_lost_audio.png&#34; alt=&#34;Review_comment_funny_issue&#34;  /&gt;
+
+&lt;em&gt;Cuando instalas un programa para dibujar en Linux y de repente&amp;hellip; (ಠ_ಠ)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Imagina que has instalado un programa en Discover en tu Kubuntu 22.04.
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/zotero_installation.png&#34; alt=&#34;alt text&#34;  /&gt;
+
+Por alguna razón, no puedes encontrar el susodicho en el menú de Inicio. ¡Que panda el cúnico! Digo perdón, ¡que no cunda el pánico!
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/zotero_not_start_menu.png&#34; alt=&#34;alt text&#34;  /&gt;
+
+Es que para que un programa aparezca en el menú de Inicio tiene que tener una entrada de Desktop en el directorio /usr/share/applications. Surgen 2 preguntas:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Memory_palace</title>
+      <link>http://localhost:1313/es/blog/memory_palace/</link>
+      <pubDate>Fri, 18 Oct 2024 20:17:24 +0200</pubDate>
+      <guid>http://localhost:1313/es/blog/memory_palace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gnome3_vs_classic_ubuntu_memory_use</title>
+      <link>http://localhost:1313/es/blog/gnome3_vs_classic_ubuntu_memory_use/</link>
+      <pubDate>Fri, 18 Oct 2024 20:16:09 +0200</pubDate>
+      <guid>http://localhost:1313/es/blog/gnome3_vs_classic_ubuntu_memory_use/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Locos por el ruido</title>
       <link>http://localhost:1313/es/blog/locos_por_el_ruido/</link>

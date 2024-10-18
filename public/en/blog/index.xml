@@ -4,11 +4,41 @@
     <title>Blogs on ingxfm</title>
     <link>http://localhost:1313/en/blog/</link>
     <description>Recent content in Blogs on ingxfm</description>
-    <generator>Hugo -- 0.136.1</generator>
+    <generator>Hugo -- 0.136.2</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Fri, 11 Oct 2024 18:29:10 +0201</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 22:08:44 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Invisible in the Start menu</title>
+      <link>http://localhost:1313/en/blog/zotero_start_menu/</link>
+      <pubDate>Fri, 18 Oct 2024 22:08:44 +0200</pubDate>
+      <guid>http://localhost:1313/en/blog/zotero_start_menu/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/paint_lost_audio.png&#34; alt=&#34;Review_comment_funny_issue&#34;  /&gt;
+
+&lt;em&gt;When you install a drawing program in Linux and suddenly&amp;hellip; (ಠ_ಠ)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Imagine you have installed an application in Discover in your Kubuntu 22.04.
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/zotero_installation.png&#34; alt=&#34;alt text&#34;  /&gt;
+
+For whatever reason, you cannot find it when you are supposed to be seeing it in the start menu. Fear not.
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/zotero_not_start_menu.png&#34; alt=&#34;alt text&#34;  /&gt;
+
+So, it happens that for an application to be shown in the start it needs to be added in the directory /usr/share/applications. There are 2 questions here:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Memory_palace</title>
+      <link>http://localhost:1313/en/blog/memory_palace/</link>
+      <pubDate>Fri, 18 Oct 2024 20:17:29 +0200</pubDate>
+      <guid>http://localhost:1313/en/blog/memory_palace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gnome3_vs_classic_ubuntu_memory_use</title>
+      <link>http://localhost:1313/en/blog/gnome3_vs_classic_ubuntu_memory_use/</link>
+      <pubDate>Fri, 18 Oct 2024 20:16:03 +0200</pubDate>
+      <guid>http://localhost:1313/en/blog/gnome3_vs_classic_ubuntu_memory_use/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Spectacle: How to report a KDE bug?</title>
       <link>http://localhost:1313/en/blog/spectacle_bug/</link>

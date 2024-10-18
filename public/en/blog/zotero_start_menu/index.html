@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Invisible in the Start menu | ingxfm</title>
+<meta name="keywords" content="">
+<meta name="description" content="
+
+When you install a drawing program in Linux and suddenly&hellip; (ಠ_ಠ)
+Imagine you have installed an application in Discover in your Kubuntu 22.04.
+
+
+For whatever reason, you cannot find it when you are supposed to be seeing it in the start menu. Fear not.
+
+
+So, it happens that for an application to be shown in the start it needs to be added in the directory /usr/share/applications. There are 2 questions here:">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/en/blog/zotero_start_menu/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.fc220c15db4aef0318bbf30adc45d33d4d7c88deff3238b23eb255afdc472ca6.css" integrity="sha256-/CIMFdtK7wMYu/MK3EXTPU18iN7/MjiyPrJVr9xHLKY=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/en/blog/zotero_start_menu/">
+<link rel="alternate" hreflang="es" href="http://localhost:1313/es/blog/zotero_start_menu/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/en/" accesskey="h" title="ingxfm (Alt + H)">ingxfm</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                    <li>
+                        <a href="http://localhost:1313/es/" title="Español"
+                            aria-label="Español">Es</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/en/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/en/blog/" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Invisible in the Start menu
+    </h1>
+    <div class="post-meta"><span title='2024-10-18 22:08:44 +0200 CEST'>October 18, 2024</span>&nbsp;|&nbsp;Translations:
+<ul class="i18n_list">
+    <li>
+        <a href="http://localhost:1313/es/blog/zotero_start_menu/">Es</a>
+    </li>
+</ul>
+
+</div>
+  </header> 
+  <div class="post-content"><p><img loading="lazy" src="/img/paint_lost_audio.png" alt="Review_comment_funny_issue"  />
+
+<em>When you install a drawing program in Linux and suddenly&hellip; (ಠ_ಠ)</em></p>
+<p>Imagine you have installed an application in Discover in your Kubuntu 22.04.
+<img loading="lazy" src="/img/zotero_installation.png" alt="alt text"  />
+
+For whatever reason, you cannot find it when you are supposed to be seeing it in the start menu. Fear not.
+<img loading="lazy" src="/img/zotero_not_start_menu.png" alt="alt text"  />
+
+So, it happens that for an application to be shown in the start it needs to be added in the directory /usr/share/applications. There are 2 questions here:</p>
+<ul>
+<li>How to add the application in that directory?</li>
+<li>Why Discover is not doing this as part of the installation process?</li>
+</ul>
+<h2 id="how-to-add-the-application-in-that-directory">How to add the application in that directory?<a hidden class="anchor" aria-hidden="true" href="#how-to-add-the-application-in-that-directory">#</a></h2>
+<p>We need to add the so-called desktop entry of our program in order to see in the start menu. We briefly dealt with desktop entries when we had the issue with the screenshot tool <a href="/en/blog/spectacle_bug/">Spectacle</a>.</p>
+<p>According to this <a href="https://wiki.archlinux.org/title/Desktop_entries#Application_entry">reference</a>, desktop entries are placed in /usr/share/applications/ for installed applications. In this case, I was dealing with the zotero program. Let&rsquo;s see if the .desktop file is there:</p>
+<pre tabindex="0"><code class="language-CLI" data-lang="CLI">ls -l /usr/share/applications | grep zotero
+</code></pre><p>The output shows me entry is not there for zotero. Mmm, me not like. Let&rsquo;s add it. But, from where? After investigation I see that desktop entries for snaps are located in /var/lib/snapd/desktop/applications/. Is the zotero entry there?</p>
+<pre tabindex="0"><code class="language-CLI" data-lang="CLI">ls -l /var/lib/snapd/desktop/applications/ | grep zotero
+</code></pre><p>The output says yes. Now, let&rsquo;s add it to /usr/share/applications. Let&rsquo;s add a symbolic link:</p>
+<pre tabindex="0"><code class="language-CLI" data-lang="CLI">sudo ln -s /var/lib/snapd/desktop/applications/zotero-snap_zotero-snap.desktop /usr/share/applications
+</code></pre><p>Then, let&rsquo;s try the start menu.
+<img loading="lazy" src="/img/zotero_start_menu.png" alt="zotero in the start menu"  />
+
+Success! Now, we should not need to do this.</p>
+<h2 id="why-discover-is-not-doing-this-as-part-of-the-installation-process">Why Discover is not doing this as part of the installation process?<a hidden class="anchor" aria-hidden="true" href="#why-discover-is-not-doing-this-as-part-of-the-installation-process">#</a></h2>
+<p>It is not a problem with the zotero snap because it happened when I tried the skype snap or other snaps, also from Discover. It seems it might be an issue with the Discover.</p>
+<pre tabindex="0"><code class="language-CLI" data-lang="CLI">sudo journalctl -u snapd
+</code></pre><p>And I can see this warning, which did not happen before when installing snaps:</p>
+<pre tabindex="0"><code class="language-CLI" data-lang="CLI">systemd[1]: /lib/systemd/system/snapd.service:23: Unknown key name &#39;RestartMode&#39; in section &#39;Service&#39;, ignoring.
+</code></pre><p>After investigating, it seems this RestartMode is a <a href="https://www.freedesktop.org/software/systemd/man/latest/systemd.service.html#RestartMode=">systemd directive</a>. And there is an issue reported here: <a href="https://github.com/systemd/systemd/issues/34758">https://github.com/systemd/systemd/issues/34758</a>.</p>
+<p>Let&rsquo;s add a script that adds the symbolic links at startup:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e">#!/bin/bash
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">for</span> file in /var/lib/snapd/desktop/applications/*.desktop; <span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>ln -sf <span style="color:#e6db74">&#34;</span>$file<span style="color:#e6db74">&#34;</span> /usr/share/applications/
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">done</span>
+</span></span></code></pre></div><p>Let&rsquo;s add this in the System Settings -&gt; Startup and Shutdown -&gt; Autostart:</p>
+<p>Do not forget to make the script executable:</p>
+<pre tabindex="0"><code class="language-CLI" data-lang="CLI">chmod +x &lt;path_to_script&gt;/script.sh
+</code></pre><p>Now, when you restart the script will create the symbolic links if it finds any new .desktop files in the directory /var/lib/snapd/desktop/applications/.</p>
+<h1 id="conclusion">Conclusion<a hidden class="anchor" aria-hidden="true" href="#conclusion">#</a></h1>
+<p>Another day, another issue in Linux desktop. This is a fine OS for servers, data centers, HPC. However, for Desktops your mileage may vary and you can frustrated spending time trying to troubleshoot simple things like installing a program and seeing it appear in the start menu. This works well in the fenestra OS. Let&rsquo;s not dwell on this too much. The right tool for the right task!</p>
+<p>Cheers!</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>Copyright © 2024</span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
