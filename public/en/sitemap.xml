@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/blog/</loc>
-    <lastmod>2024-10-18T22:08:44+02:00</lastmod>
+    <lastmod>2024-10-23T20:47:20+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-419"
@@ -13,6 +13,19 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/blog/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/syntopical_reading_be_less_wrong/</loc>
+    <lastmod>2024-10-23T20:47:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-419"
+                href="http://localhost:1313/es/blog/syntopical_reading_be_less_wrong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/blog/syntopical_reading_be_less_wrong/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/blog/zotero_start_menu/</loc>

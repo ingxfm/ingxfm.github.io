@@ -5,4 +5,5 @@ draft = false
 lang = "es"
 +++
 
-Haciendo el 9-a-5.
+### Ahora
+Trabajando en la validación de firmware en un dispositivo con sistema operativo Linux.

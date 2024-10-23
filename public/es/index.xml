@@ -4,11 +4,32 @@
     <title>Home on ingxfm</title>
     <link>http://localhost:1313/es/</link>
     <description>Recent content in Home on ingxfm</description>
-    <generator>Hugo -- 0.136.2</generator>
+    <generator>Hugo -- 0.136.4</generator>
     <language>es-419</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Fri, 18 Oct 2024 22:08:48 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 20:47:15 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lectura sintópica: ¿Cómo estar menor equivocado en mi carrera?</title>
+      <link>http://localhost:1313/es/blog/syntopical_reading_be_less_wrong/</link>
+      <pubDate>Wed, 23 Oct 2024 20:47:15 +0200</pubDate>
+      <guid>http://localhost:1313/es/blog/syntopical_reading_be_less_wrong/</guid>
+      <description>&lt;p&gt;Tenía una pregunta: ¿Cómo estar menos equivocado con respecto a mi carrera? Para responder esa pregunta reflexione en lo que he hecho hasta ahora en mi carrera, y leí varios libros. A continuación mis notas sobre los libros.&lt;/p&gt;
+&lt;h2 id=&#34;notas-de-la-lectura-sintópica-de-los-siguientes-libros&#34;&gt;Notas de la lectura sintópica de los siguientes libros&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Como leer un libro por Mortimer Adler y Charles Van Doren&lt;/li&gt;
+&lt;li&gt;Los sietes hábitos de las personas altamente efectivas por Stephen Covey&lt;/li&gt;
+&lt;li&gt;Smartphone, dumbphone por Allen Carr&lt;/li&gt;
+&lt;li&gt;La vía fácil a la atención plena por Allen Carr&lt;/li&gt;
+&lt;li&gt;Buena azúcar, mala azúcar por Allen Carr&lt;/li&gt;
+&lt;li&gt;Hábitos atómicos por James Clear&lt;/li&gt;
+&lt;li&gt;El arte sutil de que casi todo te importe un carajo por Mark Manson&lt;/li&gt;
+&lt;li&gt;So good they can&amp;rsquo;t ignore you por Cal Newport&lt;/li&gt;
+&lt;li&gt;Ikigai por Héctor García&lt;/li&gt;
+&lt;li&gt;El arte de aprender por Josh Waitzkin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El consejo &amp;ldquo;sigue tu pasión&amp;rdquo; es una adicción. ¿Cuáles podrían ser las consecuencias de seguir este consejo sin pensar?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>No te veo en el Inicio</title>
       <link>http://localhost:1313/es/blog/zotero_start_menu/</link>
@@ -113,7 +134,8 @@ Es que para que un programa aparezca en el menú de Inicio tiene que tener una e
       <link>http://localhost:1313/es/about/</link>
       <pubDate>Sat, 31 Aug 2024 19:55:59 +0200</pubDate>
       <guid>http://localhost:1313/es/about/</guid>
-      <description>&lt;p&gt;Haciendo el 9-a-5.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;ahora&#34;&gt;Ahora&lt;/h3&gt;
+&lt;p&gt;Trabajando en la validación de firmware en un dispositivo con sistema operativo Linux.&lt;/p&gt;</description>
     </item>
     <item>
       <title>El realengo y sus beneficios</title>

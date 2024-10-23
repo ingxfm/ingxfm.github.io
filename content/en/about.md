@@ -5,4 +5,5 @@ draft = false
 lang = "en"
 +++
 
-I'm 9-to-5ing.
+### Now
+Currently, I'm working on the validation of a firmware for a Linux embedded device.

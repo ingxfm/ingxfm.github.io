@@ -68,4 +68,3 @@ Now, when you restart the script will create the symbolic links if it finds any 
 Another day, another issue in Linux desktop. This is a fine OS for servers, data centers, HPC. However, for Desktops your mileage may vary and you can frustrated spending time trying to troubleshoot simple things like installing a program and seeing it appear in the start menu. This works well in the fenestra OS. Let's not dwell on this too much. The right tool for the right task!
 
 Cheers!
-

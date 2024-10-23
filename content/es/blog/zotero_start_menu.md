@@ -70,4 +70,3 @@ Ahora, cuando reinicies, el script creará los enlaces simbólicos si encuentra 
 Otro día, y otro problema en Linux Desktop. Este es un buen sistema operativo para servidores, data centers, HPC. Sin embargo, para las computadoras de escritorio/Desktops los resultados varían y puedes frustrarte al gastar tiempo intentando reparar problemas en funcionalidades simples como instalar un programa y verlo en el menú de Inicio. Esto funciona bien en el sistema operativo del tragaluz. No pensemos en eso tanto. ¡La herramienta correcta con la tarea correcta!
 
 ¡Salud!
-
