@@ -1,5 +1,5 @@
 +++
-title = 'Lectura sintópica: ¿Cómo estar menor equivocado en mi carrera?'
+title = 'Lectura sintópica: ¿Cómo estar menos equivocado en mi carrera?'
 date = 2024-10-23T20:47:15+02:00
 draft = false
 lang = 'es'
