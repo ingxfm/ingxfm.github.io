@@ -4,13 +4,23 @@
     <title>Blogs on ingxfm</title>
     <link>http://localhost:1313/es/blog/</link>
     <description>Recent content in Blogs on ingxfm</description>
-    <generator>Hugo -- 0.136.4</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>es-419</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Wed, 23 Oct 2024 20:47:15 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 20:13:09 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/es/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lectura sintópica: ¿Cómo estar menor equivocado en mi carrera?</title>
+      <title>Rotando un video en Linux</title>
+      <link>http://localhost:1313/es/blog/ffmpeg_rotate_video/</link>
+      <pubDate>Fri, 25 Oct 2024 20:13:09 +0200</pubDate>
+      <guid>http://localhost:1313/es/blog/ffmpeg_rotate_video/</guid>
+      <description>&lt;p&gt;Digamos que estúpidamente grabas un video en vertical, y cuando los copias a tu computadora personal, y el video es guardado de forma horizontal. Entonces, tienes un vídeo vertical, que en si mismo ya es una blasfemia, reproduciéndose horizontalmente. Giremos el vídeo para que podamos continuar nuestra pecaminosa verticalidad. O puedes conseguirte una cita con un doctor para el cuello. ¡Vamos!
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/video_wrong.png&#34; alt=&#34;Vertical video rotated wrongly&#34;  /&gt;
+
+Usemos el magnifico program ffmpeg.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lectura sintópica: ¿Cómo estar menos equivocado en mi carrera?</title>
       <link>http://localhost:1313/es/blog/syntopical_reading_be_less_wrong/</link>
       <pubDate>Wed, 23 Oct 2024 20:47:15 +0200</pubDate>
       <guid>http://localhost:1313/es/blog/syntopical_reading_be_less_wrong/</guid>

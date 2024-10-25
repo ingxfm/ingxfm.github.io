@@ -44,7 +44,7 @@ Ahora, podemos aplicar la lectura analítica. Necesitamos hacerle 4 preguntas a 
 
 En la lectura analítica buscaremos los términos o palabras principales y su significado o interpretación. Más aún, deberemos llegar a un acuerdo de términos con el autor, y esto significa como serán utilizados los términos. Solo en ese momento, podemos estar de acuerdo o en desacuerdo, cuando entendamos los términos en la misma forma que el autor.
 
-En la misma forma, tenemos que encontrar las proposiciones y los argumentos del texto, y acordar los términos con estos. Una vez hecho esto, podemos criticar el libro. Para este último propósito, debemos seguir la etiqueta de la crítica, esto es, debemos usar las palabras en la forma que el autor tuvo la intención tanto como podamos. No debemos decidir si estamos de acuerdo o en desacuerdo sin antes entender los términos, proposiciones, y argumentos del autor.
+En la misma forma, tenemos que encontrar las proposiciones y los argumentos del texto, y acordar los términos con estos. Una vez hecho esto, podemos criticar el libro. Para este último propósito, debemos seguir la etiqueta de la crítica, esto es, debemos usar las palabras en la forma que el autor tuvo la intención de usarlas tanto como podamos. No debemos decidir si estamos de acuerdo o en desacuerdo sin antes entender los términos, proposiciones, y argumentos del autor.
 
 Por último, tenemos la lectura sintópica. También, puede ser llamada comparativa o paralela. Este tipo es cuando hacemos lectura analítica de varios libros sobre un mismo tema y comparamos e incluso nueva información basada en esos libros que ninguno de ellos contiene por si solos. Esto lo que gente hace, o debería hacer, cuando hacen una tesis en la universidad.
 

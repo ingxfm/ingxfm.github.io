@@ -4,11 +4,21 @@
     <title>Home on ingxfm</title>
     <link>http://localhost:1313/en/</link>
     <description>Recent content in Home on ingxfm</description>
-    <generator>Hugo -- 0.136.4</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Wed, 23 Oct 2024 20:47:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 20:13:03 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rotating a video in Linux</title>
+      <link>http://localhost:1313/en/blog/ffmpeg_rotate_video/</link>
+      <pubDate>Fri, 25 Oct 2024 20:13:03 +0200</pubDate>
+      <guid>http://localhost:1313/en/blog/ffmpeg_rotate_video/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s say you stupidly recorded a video vertically, and when you copy it into your PC the video is saved horizontally. So, you have a vertical video, which in itself is a blasphemy already, playing horizontally. Let&amp;rsquo;s rotate this video so that it continues its sinful vertical ways. Or you can get yourself a visit to the neck doctor. After me.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/video_wrong.png&#34; alt=&#34;Vertical video rotated wrongly&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s use the wonderful ffmpeg.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Syntopical reading: How to be less wrong in my career?</title>
       <link>http://localhost:1313/en/blog/syntopical_reading_be_less_wrong/</link>
@@ -58,7 +68,7 @@ So, it happens that for an application to be shown in the start it needs to be a
       <link>http://localhost:1313/en/blog/gnome3_vs_classic_ubuntu_memory_use/</link>
       <pubDate>Fri, 18 Oct 2024 20:16:03 +0200</pubDate>
       <guid>http://localhost:1313/en/blog/gnome3_vs_classic_ubuntu_memory_use/</guid>
-      <description></description>
+      <description>&lt;p&gt;Classic gnome is using less RAM memory&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spectacle: How to report a KDE bug?</title>
