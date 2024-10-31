@@ -7,8 +7,16 @@
     <generator>Hugo -- 0.136.5</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Fri, 25 Oct 2024 20:13:03 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 19:50:30 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recovering what never was</title>
+      <link>http://localhost:1313/en/blog/preguntas_sistema_estudio/</link>
+      <pubDate>Wed, 30 Oct 2024 19:50:30 +0100</pubDate>
+      <guid>http://localhost:1313/en/blog/preguntas_sistema_estudio/</guid>
+      <description>&lt;p&gt;You found a new job opportunity that could double your income. But, to get it, you need to pass the loathsome certification exam in 3 months. Furthermore, you have years you do not study (bad, you should be constantly learning). Moreover, you work from 8 to 5.&lt;/p&gt;
+&lt;p&gt;But OK, let’s leave aside the scolding. How will we recover our study habits? Bro, I never had one! OK, Joe, if you never had these, let&amp;rsquo;s ask some questions to evaluate our state.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Rotating a video in Linux</title>
       <link>http://localhost:1313/en/blog/ffmpeg_rotate_video/</link>

@@ -7,8 +7,16 @@
     <generator>Hugo -- 0.136.5</generator>
     <language>es-419</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Fri, 25 Oct 2024 20:13:09 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 19:50:24 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recuperando el método que nunca estuvo</title>
+      <link>http://localhost:1313/es/blog/preguntas_sistema_estudio/</link>
+      <pubDate>Wed, 30 Oct 2024 19:50:24 +0100</pubDate>
+      <guid>http://localhost:1313/es/blog/preguntas_sistema_estudio/</guid>
+      <description>&lt;p&gt;Te encontraste con una nueva oportunidad de trabajo que puede subir tus ingresos al doble. Pero para acceder a ella tienes que tomar una pendeja certificación de IT en los próximos 3 meses. Tienes años que no estudias (muy mal debes mantenerte aprendiendo siempre). Más aún, trabajas de 8 a 5.&lt;/p&gt;
+&lt;p&gt;Pero ya, dejemos los puritanismos de lado. ¿Cómo vas recuperar tu hábito de estudios? ¡Hermano, pero si nunca lo he tenido! Ok, José, si no tienes un método de estudio, vamos a evaluar exactamente que nos hace falta.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Rotando un video en Linux</title>
       <link>http://localhost:1313/es/blog/ffmpeg_rotate_video/</link>
