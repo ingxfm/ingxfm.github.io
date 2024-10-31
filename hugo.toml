@@ -43,3 +43,7 @@ defaultContentLanguageInSubdir = true
   name = 'Blog'
   url = "/blog/"
   weight = 2
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-FLCEVDW9T3'
