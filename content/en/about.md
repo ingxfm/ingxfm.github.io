@@ -9,6 +9,6 @@ lang = "en"
 Currently, I'm working on the validation of a firmware for a Linux embedded device.
 
 ### Disclaimer
-These writings are personal. As such, they do not represent the opinion any employers, clients or for that any other human being related or unrelated, or any organization. The opinions expressed in this site are my own.
+My dear reader. This is a personal website. Personal! Personal! Is it clear? The opinions expressed in this site are my own. As such, they do not represent the opinion of anyone else, human being or organization. Should I re-phrase this in any other way? :)
 
-The information in the website is provided as is, and no one can claim liability to its person or others for the consequences of using the information in this site. Please, do not attempt to loop hole my words to cause me legal issue, to sue me. I'm not a lawyer.
+The information in the website is provided as is, and you cannot claim liability for the consequences of using its information. Please, do not attempt to loop hole my words to cause me legal issues or to sue me. I'm not a lawyer. Be kind, please.
