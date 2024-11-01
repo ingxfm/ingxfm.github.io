@@ -7,8 +7,19 @@
     <generator>Hugo -- 0.136.5</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Wed, 30 Oct 2024 19:50:30 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 20:21:55 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Believe the science</title>
+      <link>http://localhost:1313/en/blog/criticizing_book/</link>
+      <pubDate>Fri, 01 Nov 2024 20:21:55 +0100</pubDate>
+      <guid>http://localhost:1313/en/blog/criticizing_book/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;What we know, we know subject to correction; we know it because all, or at least the weight, of the evidence supports it, but we are not and cannot be certain that new evidence will not sometime invalidate what we now believe is true.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Mortimer Adler and Charles Van Doren.&lt;/p&gt;
+&lt;p&gt;Until Albert Einstein came along with his theory of relativity, there was a concept called aether, or ether, that was used to describing the behavior of light. This was a substance or material that permeated space providing a medium through which light and gravity could travel.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Recovering what never was</title>
       <link>http://localhost:1313/en/blog/preguntas_sistema_estudio/</link>

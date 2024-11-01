@@ -7,8 +7,19 @@
     <generator>Hugo -- 0.136.5</generator>
     <language>es-419</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Wed, 30 Oct 2024 19:50:24 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 20:21:59 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cree en la ciencia</title>
+      <link>http://localhost:1313/es/blog/criticizing_book/</link>
+      <pubDate>Fri, 01 Nov 2024 20:21:59 +0100</pubDate>
+      <guid>http://localhost:1313/es/blog/criticizing_book/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Lo que sabemos, lo sabemos sujeto a corrección; lo sabemos porque toda, o por lo menos, la mayoría de la evidencia lo respalda, pero no estamos y no podemos estar seguros de que, algún día, nueva evidencia no invalidará lo que ahora creemos que es verdad.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Mortimer Adler y Charles Van Doren.&lt;/p&gt;
+&lt;p&gt;Hasta que Einstein presentó su teoría de la relatividad, había un concepto llamado éter que se usaba para describir el comportamiento de la luz. Esta sustancia o material que permeaba todo en el espacio era un medio a través del cual la luz y la gravedad podían viajar.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Recuperando el método que nunca estuvo</title>
       <link>http://localhost:1313/es/blog/preguntas_sistema_estudio/</link>
