@@ -4,11 +4,24 @@
     <title>Home on ingxfm</title>
     <link>http://localhost:1313/es/</link>
     <description>Recent content in Home on ingxfm</description>
-    <generator>Hugo -- 0.136.5</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>es-419</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Fri, 01 Nov 2024 20:21:59 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 20:17:24 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ejemplo con el palacio de la memoria y vocabulario japonés</title>
+      <link>http://localhost:1313/es/blog/memory_palace/</link>
+      <pubDate>Sat, 09 Nov 2024 20:17:24 +0200</pubDate>
+      <guid>http://localhost:1313/es/blog/memory_palace/</guid>
+      <description>&lt;p&gt;Digamos que tienes que memorizar una lista de palabras en un idioma nuevo. Por ejemplo, estas palabras en japonés:&lt;/p&gt;
+&lt;p&gt;Si - Jai
+No - iie
+Gracias - arigatougotzaimasu
+Lo siento - gomennasai
+Disculpe - sumimasen&lt;/p&gt;
+&lt;p&gt;Imagínate entrando por la puerta de tu casa, y un hombre da un golpe de karate, gritando ¡&lt;strong&gt;Jaaaaaaaaiii&lt;/strong&gt;!, y rompe la puerta. El karateka diciendo que &lt;strong&gt;si&lt;/strong&gt; con movimientos de su cabeza de arriba y abajo. Luego una señora invisible aparece y le muestra un plato con un comida horrible. Aquí imagina un plato bien repugnante que no te gustaría comer, imagínalo con el color verduzco, y el olor a podrido. El karateka grita ¡&lt;strong&gt;Iiiiiiiiiiieeeee&lt;/strong&gt;! diciendo que &lt;strong&gt;no&lt;/strong&gt; con movimientos de cabeza de lado a lado, muy exagerados.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cree en la ciencia</title>
       <link>http://localhost:1313/es/blog/criticizing_book/</link>
@@ -74,13 +87,6 @@ Por alguna razón, no puedes encontrar el susodicho en el menú de Inicio. ¡Que
 &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/zotero_not_start_menu.png&#34; alt=&#34;alt text&#34;  /&gt;
 
 Es que para que un programa aparezca en el menú de Inicio tiene que tener una entrada de Desktop en el directorio /usr/share/applications. Surgen 2 preguntas:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Memory_palace</title>
-      <link>http://localhost:1313/es/blog/memory_palace/</link>
-      <pubDate>Fri, 18 Oct 2024 20:17:24 +0200</pubDate>
-      <guid>http://localhost:1313/es/blog/memory_palace/</guid>
-      <description></description>
     </item>
     <item>
       <title>Gnome3_vs_classic_ubuntu_memory_use</title>

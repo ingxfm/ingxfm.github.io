@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/en/blog/</loc>
+    <lastmod>2024-11-09T20:17:29+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-419"
+                href="http://localhost:1313/es/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/blog/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/memory_palace/</loc>
+    <lastmod>2024-11-09T20:17:29+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-419"
+                href="http://localhost:1313/es/blog/memory_palace/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/blog/memory_palace/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/blog/criticizing_book/</loc>
     <lastmod>2024-11-01T20:21:55+01:00</lastmod>
     <xhtml:link
@@ -13,19 +39,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/blog/criticizing_book/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/blog/</loc>
-    <lastmod>2024-11-01T20:21:55+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-419"
-                href="http://localhost:1313/es/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/blog/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/blog/preguntas_sistema_estudio/</loc>
@@ -78,19 +91,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/blog/zotero_start_menu/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/blog/memory_palace/</loc>
-    <lastmod>2024-10-18T20:17:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-419"
-                href="http://localhost:1313/es/blog/memory_palace/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/blog/memory_palace/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/blog/gnome3_vs_classic_ubuntu_memory_use/</loc>
