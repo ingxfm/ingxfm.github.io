@@ -4,11 +4,19 @@
     <title>Blogs on ingxfm</title>
     <link>http://localhost:1313/en/blog/</link>
     <description>Recent content in Blogs on ingxfm</description>
-    <generator>Hugo -- 0.138.0</generator>
+    <generator>Hugo -- 0.139.0</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Sat, 09 Nov 2024 20:17:29 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 16:46:45 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My favorite websites</title>
+      <link>http://localhost:1313/en/blog/about_page_update/</link>
+      <pubDate>Wed, 20 Nov 2024 16:46:45 +0100</pubDate>
+      <guid>http://localhost:1313/en/blog/about_page_update/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s start compiling a list of spots in the World Wide Web that I have found useful, enjoyable and/or humorous. In this first time, we will add 4 entries in no particular order of importance. Go to my &lt;a href=&#34;http://localhost:1313/en/about/&#34;&gt;About&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;Cheers!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Example of memory palace with Japanese vocabulary</title>
       <link>http://localhost:1313/en/blog/memory_palace/</link>

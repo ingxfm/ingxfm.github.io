@@ -4,11 +4,19 @@
     <title>Home on ingxfm</title>
     <link>http://localhost:1313/es/</link>
     <description>Recent content in Home on ingxfm</description>
-    <generator>Hugo -- 0.138.0</generator>
+    <generator>Hugo -- 0.139.0</generator>
     <language>es-419</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Sat, 09 Nov 2024 20:17:24 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 16:46:51 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mis websites favoritos</title>
+      <link>http://localhost:1313/es/blog/about_page_update/</link>
+      <pubDate>Wed, 20 Nov 2024 16:46:51 +0100</pubDate>
+      <guid>http://localhost:1313/es/blog/about_page_update/</guid>
+      <description>&lt;p&gt;Comencemos a recopilar una lista de lugares de la World Wide Web que me han parecido útiles, divertidos y/o humoristicos. En esta primera ocasión, agregaremos 4 entradas sin ningún orden de importancia en particular. Ve a mi página &lt;a href=&#34;http://localhost:1313/es/about/&#34;&gt;Sobre mí&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;¡Salud!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ejemplo con el palacio de la memoria y vocabulario japonés</title>
       <link>http://localhost:1313/es/blog/memory_palace/</link>
@@ -169,11 +177,12 @@ Es que para que un programa aparezca en el menú de Inicio tiene que tener una e
       <link>http://localhost:1313/es/about/</link>
       <pubDate>Sat, 31 Aug 2024 19:55:59 +0200</pubDate>
       <guid>http://localhost:1313/es/about/</guid>
-      <description>&lt;h3 id=&#34;ahora&#34;&gt;Ahora&lt;/h3&gt;
+      <description>&lt;p&gt;Actualizado: 20.Nov.24&lt;/p&gt;
+&lt;h3 id=&#34;ahora&#34;&gt;Ahora&lt;/h3&gt;
 &lt;p&gt;Trabajando en la validación de firmware en un dispositivo con sistema operativo Linux.&lt;/p&gt;
-&lt;h3 id=&#34;descargo&#34;&gt;Descargo&lt;/h3&gt;
-&lt;p&gt;Estos escritos son personales. ¡Personales! ¿Fui claro? :) Como tales, no representan la opinión de ninguno de mis empleadores, clientes o ningún ser humano relacionado o no a mi, u otra institución. Las opiniones en este sitio web son las mías.&lt;/p&gt;
-&lt;p&gt;La información en este sitio web se proporciona tal como está, y nos puedes reclamar responsabilidad legal sobre mi como consecuencia del uso de la información en este sitio. Por favor, no intentes aprovecharte de mis palabras para causarme problemas legales o demandarme. No soy abogado. Sé amable, por favor.&lt;/p&gt;</description>
+&lt;h3 id=&#34;mis-websites-favoritos&#34;&gt;Mis websites favoritos&lt;/h3&gt;
+&lt;p&gt;Retrogames.cz (en inglés)
+Si eres lo suficientemente viejo como yo para haber disfrutado de los videojuegos de los 80s y 90s, entonces te va a gustar este website. Está es una colección de juegos retro, con manuales, unos cuantos screenshots y la explicación de como jugar esos dichosos juegos. Estoy hablando de Retrogames.cz.&lt;/p&gt;</description>
     </item>
     <item>
       <title>El realengo y sus beneficios</title>

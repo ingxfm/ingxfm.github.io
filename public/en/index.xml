@@ -4,11 +4,19 @@
     <title>Home on ingxfm</title>
     <link>http://localhost:1313/en/</link>
     <description>Recent content in Home on ingxfm</description>
-    <generator>Hugo -- 0.138.0</generator>
+    <generator>Hugo -- 0.139.0</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Sat, 09 Nov 2024 20:17:29 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 16:46:45 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My favorite websites</title>
+      <link>http://localhost:1313/en/blog/about_page_update/</link>
+      <pubDate>Wed, 20 Nov 2024 16:46:45 +0100</pubDate>
+      <guid>http://localhost:1313/en/blog/about_page_update/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s start compiling a list of spots in the World Wide Web that I have found useful, enjoyable and/or humorous. In this first time, we will add 4 entries in no particular order of importance. Go to my &lt;a href=&#34;http://localhost:1313/en/about/&#34;&gt;About&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;Cheers!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Example of memory palace with Japanese vocabulary</title>
       <link>http://localhost:1313/en/blog/memory_palace/</link>
@@ -151,11 +159,14 @@ So, it happens that for an application to be shown in the start it needs to be a
       <link>http://localhost:1313/en/about/</link>
       <pubDate>Sat, 31 Aug 2024 19:55:59 +0200</pubDate>
       <guid>http://localhost:1313/en/about/</guid>
-      <description>&lt;h3 id=&#34;now&#34;&gt;Now&lt;/h3&gt;
+      <description>&lt;p&gt;Updated: 20.Nov.24&lt;/p&gt;
+&lt;h3 id=&#34;now&#34;&gt;Now&lt;/h3&gt;
 &lt;p&gt;Currently, I&amp;rsquo;m working on the validation of a firmware for a Linux embedded device.&lt;/p&gt;
-&lt;h3 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h3&gt;
-&lt;p&gt;My dear reader. This is a personal website. Personal! Personal! Is it clear? The opinions expressed in this site are my own. As such, they do not represent the opinion of anyone else, human being or organization. Should I re-phrase this in any other way? :)&lt;/p&gt;
-&lt;p&gt;The information in the website is provided as is, and you cannot claim liability for the consequences of using its information. Please, do not attempt to loop hole my words to cause me legal issues or to sue me. I&amp;rsquo;m not a lawyer. Be kind, please.&lt;/p&gt;</description>
+&lt;h3 id=&#34;my-favorite-websites&#34;&gt;My favorite websites&lt;/h3&gt;
+&lt;p&gt;Retrogames.cz (English)
+If you are old enough like me to have played video games from the 80s and 90s, then you will enjoy this entry. This is a collection of retro games, with manuals, a few screenshots and how to play this fabulous games. I&amp;rsquo;m talking about Retrogames.cz.&lt;/p&gt;
+&lt;p&gt;Dedoimedo.com (English)
+The next one, it is my inspiration for my own blog and frankly the style I attempted to copy from. It is godly Dedoimedo.com. There, you will find tutorials about Linux, Windows, virtualization, links to his books and the life wisdom writings.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
