@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.0</generator>
     <language>es-419</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Wed, 20 Nov 2024 16:46:51 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 10:03:34 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/es/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convertidores USB: no se me cambien los nombres</title>
+      <link>http://localhost:1313/es/blog/assign_usb/</link>
+      <pubDate>Fri, 22 Nov 2024 10:03:34 +0100</pubDate>
+      <guid>http://localhost:1313/es/blog/assign_usb/</guid>
+      <description>&lt;p&gt;Tienes que conectar 3 cables USB a una workstation con Ubuntu 22.04. Estos 3 cables USB son 1 convertidor UART 232TTL y 2 convertidores RS485 USB.&lt;/p&gt;
+&lt;p&gt;Necesitas resetear la computadora unas cuantas veces. O, a veces, necesitas desconectar los cables. Y notas que los nombres (/dev/ttyUSB0, /dev/ttyUSB1, /dev/ttyUSB2) de los puertos seriales cambian en el Ubuntu OS.&lt;/p&gt;
+&lt;p&gt;Como estas usando un programa que necesita usar los nombres, te gustaría fijar los benditos. Bueno, estas en en el lugar correcto. Vamos a hacer eso mismo.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mis websites favoritos</title>
       <link>http://localhost:1313/es/blog/about_page_update/</link>
