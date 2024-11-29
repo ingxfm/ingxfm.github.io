@@ -4,11 +4,20 @@
     <title>Home on ingxfm</title>
     <link>http://localhost:1313/en/</link>
     <description>Recent content in Home on ingxfm</description>
-    <generator>Hugo -- 0.139.0</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024</copyright>
-    <lastBuildDate>Fri, 22 Nov 2024 10:03:39 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 22:23:03 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humorous science fiction</title>
+      <link>http://localhost:1313/en/blog/fun_science_fiction/</link>
+      <pubDate>Fri, 29 Nov 2024 22:23:03 +0100</pubDate>
+      <guid>http://localhost:1313/en/blog/fun_science_fiction/</guid>
+      <description>&lt;p&gt;Science fiction has always been an attractive genre to read for me. Arthur C. Clarke&amp;rsquo;s or Isaac Asimov&amp;rsquo;s writings are imaginative and uncommon stories.&lt;/p&gt;
+&lt;p&gt;Lately, I have discovered two authors that blend science fiction with humor. These have been a blast to read. The culprits are Douglas Adams and Rob Grant.&lt;/p&gt;
+&lt;p&gt;If you can find yourself a copy of &amp;ldquo;The Hitchhiker&amp;rsquo;s Guide to the Galaxy&amp;rdquo; by Adams, or &amp;ldquo;Colony&amp;rdquo; and &amp;ldquo;Incompetence&amp;rdquo; by Grant you are in for some peals of laughter. Zaphod, Arthur, the Vogons, Eddie, Harry/Cardew will make your day a bit more fun.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>USB converters: do not change your names</title>
       <link>http://localhost:1313/en/blog/assign_usb/</link>
