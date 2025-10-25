@@ -5,7 +5,7 @@ draft = false
 lang = 'en'
 +++
 
-Once upon a time, le moi was writing his Friday article. This poor soul needed a few screenshots and lo and behold his Spectacle tool presented a not so spectacular behavior. Spectacle required the following actions to make one screenshot: open Spectacle -> Area: Rectangular Region -> click on Take a New Screenshot, the mouse pointer disappears, then open again Spectacle from Super -> click again Take a New Screenshot, then I can see the pointer normally. So, for the price of 2 screenshots I got one. Makes sense since we are near the November's black Friday.
+Once upon a time, le moi was writing his Friday article. This poor soul needed a few screenshots and lo and behold his Spectacle tool presented a not so spectacular behavior. Spectacle required the following actions to make one screenshot: open Spectacle -> Area: Rectangular Region -> click on Take a New Screenshot, the mouse pointer disappears, then open again Spectacle from Super -> click again, take a New Screenshot, then I could see the pointer normally. So, for the price of 2 screenshots, I got one. Makes sense since we are near the November's Black Friday.
 
 Anyhow, let's try to solve this price imbalance, shall we?
 
@@ -34,7 +34,7 @@ We can find the same logs with the Ksystemlogs program.
 
 Can this be the source of the issue? The system cannot know the MIME type because the file is not found there. Maybe, this is causing my issues when I open the program. But, on further looking this is not the case because this happened a few moments earlier when I was trying to lazy technique of re-installing, and uninstalling and installing.
 
-This did not help. Then, I decided to create this file manually since the reinstallation did not create it.
+This did not help. Then, I decided to create this file manually, since the reinstallation did not create it.
 ```
 sudo nano /usr/share/applications/org.kde.spectacle.desktop.dpkg-new
 ```
@@ -68,7 +68,7 @@ Then, I install the newest version available:
 apt-cache policy kde-spectacle
 sudo apt install kde-spectacle=24.08.2-0ubuntu1
 ```
-This did help almost. However, once every 20 times, I press the Take a New Screenshot button the tool decides to not go into Screenshot mode and I had to open the Spectacle tool again. Then, I went for a 5 minutes walk and the idea came that I'm using a laptop plus monitor setup and that can be related. I disconnected the monitor, and voila the issue disappeared.
+This did help almost. However, once every 20 times, I press the Take a New Screenshot button the tool decides to not go into Screenshot mode and I had to open the Spectacle tool again. Then, I went for a 5 minutes walk and the idea came that I'm using a laptop plus monitor setup and that can be related. I disconnected the monitor, and voilà, the issue disappeared.
 
 This might be a bug. So, I decided to file a ticket with the KDE community: https://bugs.kde.org.
 
@@ -83,6 +83,6 @@ Or, in Kubuntu, go to System settings -> About this System.
 ![Kubuntu 22.04 About this system](/img/about_this_system_spectacle_bug.png)
 
 # Conclusion
-Sometimes, we set out to repair, but we can quickly find out that we can't repair a problem completely because there is a defect in an application and we need to report this as bug. The KDE community will hopefully take a look on this. Or probably this is already solved in Kubuntu 24.04. In any case, let me finish my Friday post.
+Sometimes, we set out to repair an issue, but we can quickly find out that we can't repair it completely because there is a defect in an application, and we need to report this as a bug. The KDE community will hopefully take a look on this. Or probably this is already solved in Kubuntu 24.04. In any case, let me finish my Friday post.
 
 Cheers!
