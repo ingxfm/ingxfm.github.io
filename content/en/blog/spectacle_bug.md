@@ -83,6 +83,6 @@ Or, in Kubuntu, go to System settings -> About this System.
 ![Kubuntu 22.04 About this system](/img/about_this_system_spectacle_bug.png)
 
 # Conclusion
-Sometimes, we set out to repair but we can quickly find out that we cannot repaired a problem completely because there is a defect in an application and we need to report this as bug. The KDE community will hopefully take a look on this. Or probably this is already solved in Kubuntu 24.04. In any case, let me finish my Friday post.
+Sometimes, we set out to repair, but we can quickly find out that we can't repair a problem completely because there is a defect in an application and we need to report this as bug. The KDE community will hopefully take a look on this. Or probably this is already solved in Kubuntu 24.04. In any case, let me finish my Friday post.
 
 Cheers!
