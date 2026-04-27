@@ -50,3 +50,4 @@ defaultContentLanguageInSubdir = true
 
 [params]
   disableSpecial1stPost = true
+  mainSections = []
