@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = true
     title = 'ingxfm'
     weight = 1
     [languages.en.params]
-      subtitle = ''
+      subtitle = 'QA engineer | QA leader | SRE/DevOps'
   [languages.es]
     contentDir = 'content/es'
     disabled = false
@@ -61,8 +61,8 @@ defaultContentLanguageInSubdir = true
 
   # Metadata cleanup
   ShowPostMeta = false
-  ShowDate = false
-  ShowAuthor = false
+  ShowDate = true
+  ShowAuthor = true
 
   # List pages
   hideMeta = true
@@ -71,4 +71,4 @@ defaultContentLanguageInSubdir = true
   ShowFullTextinRSS = false
   ShowSummary = false
   disableSpecial1stPost = true
-  mainSections = ["blog"]
+  mainSections = []
