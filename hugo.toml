@@ -1,7 +1,7 @@
 baseURL = 'https://ingxfm.github.io/'
 languageCode = 'en-US'
 title = 'Home'
-copyright = "Copyright © 2024"
+copyright = "Copyright © 2026"
 theme = 'hugo-PaperMod'
 
 disableKinds = ["taxonomy"]
@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = true
     title = 'ingxfm'
     weight = 1
     [languages.en.params]
-      subtitle = 'Reminding what I should be doing! '
+      subtitle = ''
   [languages.es]
     contentDir = 'content/es'
     disabled = false
@@ -29,7 +29,7 @@ defaultContentLanguageInSubdir = true
     title = 'ingxfm'
     weight = 2
     [languages.es.params]
-      subtitle = ' ¡Recordando lo que debería estar haciendo! '
+      subtitle = ''
 
 [menu]
   [[menu.main]]
@@ -49,5 +49,26 @@ defaultContentLanguageInSubdir = true
     ID = 'G-FLCEVDW9T3'
 
 [params]
+  # Core cleanup
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowToc = false
+  ShowRssButtonInSectionTermList = false
+
+  # Metadata cleanup
+  ShowPostMeta = false
+  ShowDate = false
+  ShowAuthor = false
+
+  # List pages
+  hideMeta = true
+
+  # Homepage behavior
+  ShowFullTextinRSS = false
+  ShowSummary = false
   disableSpecial1stPost = true
-  mainSections = []
+  mainSections = ["blog"]
