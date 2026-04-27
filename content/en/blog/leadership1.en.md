@@ -3,7 +3,7 @@ title: "Ethis code"
 build:
   render: never
   list: never
-  publishResources: false
+  publishResources: true
 ---
 
 1. Candor: What is the elephant in the room? What is something that we are avoiding to talk about that could help us move forward? What is the best place to discuss about this?
