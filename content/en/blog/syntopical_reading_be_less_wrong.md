@@ -2,7 +2,6 @@
 title = 'Syntopical reading: How to be less wrong in my career?'
 date = 2024-10-23T20:47:20+02:00
 draft = false
-lang = 'en'
 +++
 
 I had this question: How to be less wrong in my career? To answer that question, I reflected on what I have done so far in my career and read the books below. The following are my notes from the books. 

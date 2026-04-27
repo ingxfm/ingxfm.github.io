@@ -2,7 +2,6 @@
 title = 'Spectacle: How to report a KDE bug?'
 date = 2024-10-11T18:29:10+02:01
 draft = false
-lang = 'en'
 +++
 
 Once upon a time, le moi was writing his Friday article. This poor soul needed a few screenshots and lo and behold his Spectacle tool presented a not so spectacular behavior. Spectacle required the following actions to make one screenshot: open Spectacle -> Area: Rectangular Region -> click on Take a New Screenshot, the mouse pointer disappears, then open again Spectacle from Super -> click again, take a New Screenshot, then I could see the pointer normally. So, for the price of 2 screenshots, I got one. Makes sense since we are near the November's Black Friday.

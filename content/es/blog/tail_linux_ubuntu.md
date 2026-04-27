@@ -2,7 +2,6 @@
 title = 'Comando en Linux Tail: útil para monitorear archivos de registro/log en texto'
 date = 2024-09-27T14:16:42+02:00
 draft = false
-lang = 'es'
 +++
 
 Cuando estás monitoreando los archivos de registros o logs de cualquier programa en Ubuntu y muchos otros sistemas operativos basados en Linux un comando que puedes utilizar es el tail. El comando tail imprime las últimas líneas en la terminal de Linux.

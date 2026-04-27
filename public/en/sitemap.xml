@@ -132,19 +132,6 @@
                 href="http://localhost:1313/en/blog/zotero_start_menu/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/gnome3_vs_classic_ubuntu_memory_use/</loc>
-    <lastmod>2024-10-18T20:16:03+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-419"
-                href="http://localhost:1313/es/blog/gnome3_vs_classic_ubuntu_memory_use/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/blog/gnome3_vs_classic_ubuntu_memory_use/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/blog/spectacle_bug/</loc>
     <lastmod>2024-10-11T18:29:10+02:01</lastmod>
     <xhtml:link
@@ -248,5 +235,7 @@
                 hreflang="en-US"
                 href="http://localhost:1313/en/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/leadership1/</loc>
   </url>
 </urlset>

@@ -2,7 +2,6 @@
 title = 'Rotating a video in Linux'
 date = 2024-10-25T20:13:03+02:00
 draft = false
-lang = 'en'
 +++
 
 Let's say you stupidly recorded a video vertically, and when you copy it into your PC the video is saved horizontally. So, you have a vertical video, which in itself is a blasphemy already, playing horizontally. Let's rotate this video so that it continues its sinful vertical ways. Or you can get yourself a visit to the neck doctor. After me.

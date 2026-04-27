@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on ingxfm</title>
     <link>http://localhost:1313/en/</link>
     <description>Recent content in Home on ingxfm</description>
-    <generator>Hugo -- 0.139.3</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <copyright>Copyright © 2024</copyright>
+    <copyright>Copyright © 2026</copyright>
     <lastBuildDate>Fri, 29 Nov 2024 22:23:03 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,177 +14,119 @@
       <link>http://localhost:1313/en/blog/fun_science_fiction/</link>
       <pubDate>Fri, 29 Nov 2024 22:23:03 +0100</pubDate>
       <guid>http://localhost:1313/en/blog/fun_science_fiction/</guid>
-      <description>&lt;p&gt;Science fiction has always been an attractive genre to read for me. Arthur C. Clarke&amp;rsquo;s or Isaac Asimov&amp;rsquo;s writings are imaginative and uncommon stories.&lt;/p&gt;
-&lt;p&gt;Lately, I have discovered two authors that blend science fiction with humor. These have been a blast to read. The culprits are Douglas Adams and Rob Grant.&lt;/p&gt;
-&lt;p&gt;If you can find yourself a copy of &amp;ldquo;The Hitchhiker&amp;rsquo;s Guide to the Galaxy&amp;rdquo; by Adams, or &amp;ldquo;Colony&amp;rdquo; and &amp;ldquo;Incompetence&amp;rdquo; by Grant you are in for some peals of laughter. Zaphod, Arthur, the Vogons, Eddie, Harry/Cardew will make your day a bit more fun.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Science fiction has always been an attractive genre to read for me. Arthur C. Clarke&amp;rsquo;s or Isaac Asimov&amp;rsquo;s writings are imaginative and uncommon stories.&lt;/p&gt;&#xA;&lt;p&gt;Lately, I have discovered two authors that blend science fiction with humor. These have been a blast to read. The culprits are Douglas Adams and Rob Grant.&lt;/p&gt;&#xA;&lt;p&gt;If you can find yourself a copy of &amp;ldquo;The Hitchhiker&amp;rsquo;s Guide to the Galaxy&amp;rdquo; by Adams, or &amp;ldquo;Colony&amp;rdquo; and &amp;ldquo;Incompetence&amp;rdquo; by Grant you are in for some peals of laughter. Zaphod, Arthur, the Vogons, Eddie, Harry/Cardew will make your day a bit more fun.&lt;/p&gt;</description>
     </item>
     <item>
       <title>USB converters: do not change your names</title>
       <link>http://localhost:1313/en/blog/assign_usb/</link>
       <pubDate>Fri, 22 Nov 2024 10:03:39 +0100</pubDate>
       <guid>http://localhost:1313/en/blog/assign_usb/</guid>
-      <description>&lt;p&gt;You need to connect 3 USB cables to an Ubuntu 22.04 workstation. These 3 USB cables are 1 UART 232TTL USB converter cable and 2 RS485 USB converter cables.&lt;/p&gt;
-&lt;p&gt;You have needed to reboot this workstation a few times. Or connect and disconnect the cables and you noticed that the naming (/dev/ttyUSB0, /dev/ttyUSB1, /dev/ttyUSB2) of the cables as serial ports are changing in your Ubuntu OS.&lt;/p&gt;
-&lt;p&gt;Because you are running a program that is using this names you would like them to stay fixed for each cable. Then, you have come to right place. Let&amp;rsquo;s do just that.&lt;/p&gt;</description>
+      <description>&lt;p&gt;You need to connect 3 USB cables to an Ubuntu 22.04 workstation. These 3 USB cables are 1 UART 232TTL USB converter cable and 2 RS485 USB converter cables.&lt;/p&gt;&#xA;&lt;p&gt;You have needed to reboot this workstation a few times. Or connect and disconnect the cables and you noticed that the naming (/dev/ttyUSB0, /dev/ttyUSB1, /dev/ttyUSB2) of the cables as serial ports are changing in your Ubuntu OS.&lt;/p&gt;&#xA;&lt;p&gt;Because you are running a program that is using this names you would like them to stay fixed for each cable. Then, you have come to right place. Let&amp;rsquo;s do just that.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My favorite websites</title>
       <link>http://localhost:1313/en/blog/about_page_update/</link>
       <pubDate>Wed, 20 Nov 2024 16:46:45 +0100</pubDate>
       <guid>http://localhost:1313/en/blog/about_page_update/</guid>
-      <description>&lt;p&gt;Let&amp;rsquo;s start compiling a list of spots in the World Wide Web that I have found useful, enjoyable and/or humorous. In this first time, we will add 4 entries in no particular order of importance. Go to my &lt;a href=&#34;http://localhost:1313/en/about/&#34;&gt;About&lt;/a&gt; page.&lt;/p&gt;
-&lt;p&gt;Cheers!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Let&amp;rsquo;s start compiling a list of spots in the World Wide Web that I have found useful, enjoyable and/or humorous. In this first time, we will add 4 entries in no particular order of importance. Go to my &lt;a href=&#34;http://localhost:1313/en/about/&#34;&gt;About&lt;/a&gt; page.&lt;/p&gt;&#xA;&lt;p&gt;Cheers!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Example of memory palace with Japanese vocabulary</title>
       <link>http://localhost:1313/en/blog/memory_palace/</link>
       <pubDate>Sat, 09 Nov 2024 20:17:29 +0200</pubDate>
       <guid>http://localhost:1313/en/blog/memory_palace/</guid>
-      <description>&lt;p&gt;Let&amp;rsquo;s say that you want to memorize vocabulary in a new language. For example, I want to know how to say a few Japanese words:&lt;/p&gt;
-&lt;p&gt;Yes - Jai
-No - Iie
-Thank you - Arigatougotzaimasu
-I&amp;rsquo;m sorry - Gomennasai
-Excuse me - Sumimasen&lt;/p&gt;
-&lt;p&gt;Imagine entering your house and a man breaks the entrance with a karate chop shouting &lt;strong&gt;Jaaaaaaaaiii&lt;/strong&gt;! The karateka is nodding a &lt;strong&gt;yes&lt;/strong&gt; with exaggerated head up and down movements. Then, an almost invisible lady appears with a plate. There is some horrible food. Imagine this repugnant dish with the greenish color, and its putrid odor. The karateka shouts &lt;strong&gt;Iiiiiiiiiiieeeee&lt;/strong&gt;! and saying &lt;strong&gt;no&lt;/strong&gt;! with exaggerated head movements again.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Let&amp;rsquo;s say that you want to memorize vocabulary in a new language. For example, I want to know how to say a few Japanese words:&lt;/p&gt;&#xA;&lt;p&gt;Yes - Jai&#xA;No - Iie&#xA;Thank you - Arigatougotzaimasu&#xA;I&amp;rsquo;m sorry - Gomennasai&#xA;Excuse me - Sumimasen&lt;/p&gt;&#xA;&lt;p&gt;Imagine entering your house and a man breaks the entrance with a karate chop shouting &lt;strong&gt;Jaaaaaaaaiii&lt;/strong&gt;! The karateka is nodding a &lt;strong&gt;yes&lt;/strong&gt; with exaggerated head up and down movements. Then, an almost invisible lady appears with a plate. There is some horrible food. Imagine this repugnant dish with the greenish color, and its putrid odor. The karateka shouts &lt;strong&gt;Iiiiiiiiiiieeeee&lt;/strong&gt;! and saying &lt;strong&gt;no&lt;/strong&gt;! with exaggerated head movements again.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Believe the science</title>
       <link>http://localhost:1313/en/blog/criticizing_book/</link>
       <pubDate>Fri, 01 Nov 2024 20:21:55 +0100</pubDate>
       <guid>http://localhost:1313/en/blog/criticizing_book/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;What we know, we know subject to correction; we know it because all, or at least the weight, of the evidence supports it, but we are not and cannot be certain that new evidence will not sometime invalidate what we now believe is true.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Mortimer Adler and Charles Van Doren.&lt;/p&gt;
-&lt;p&gt;Until Albert Einstein came along with his theory of relativity, there was a concept called aether, or ether, that was used to describing the behavior of light. This was a substance or material that permeated space providing a medium through which light and gravity could travel.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;What we know, we know subject to correction; we know it because all, or at least the weight, of the evidence supports it, but we are not and cannot be certain that new evidence will not sometime invalidate what we now believe is true.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Mortimer Adler and Charles Van Doren.&lt;/p&gt;&#xA;&lt;p&gt;Until Albert Einstein came along with his theory of relativity, there was a concept called aether, or ether, that was used to describing the behavior of light. This was a substance or material that permeated space providing a medium through which light and gravity could travel.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recovering what never was</title>
       <link>http://localhost:1313/en/blog/preguntas_sistema_estudio/</link>
       <pubDate>Wed, 30 Oct 2024 19:50:30 +0100</pubDate>
       <guid>http://localhost:1313/en/blog/preguntas_sistema_estudio/</guid>
-      <description>&lt;p&gt;You found a new job opportunity that could double your income. But, to get it, you need to pass the loathsome certification exam in 3 months. Furthermore, you have years you do not study (bad, you should be constantly learning). Moreover, you work from 8 to 5.&lt;/p&gt;
-&lt;p&gt;But OK, let’s leave aside the scolding. How will we recover our study habits? Bro, I never had one! OK, Joe, if you never had these, let&amp;rsquo;s ask some questions to evaluate our state.&lt;/p&gt;</description>
+      <description>&lt;p&gt;You found a new job opportunity that could double your income. But, to get it, you need to pass the loathsome certification exam in 3 months. Furthermore, you have years you do not study (bad, you should be constantly learning). Moreover, you work from 8 to 5.&lt;/p&gt;&#xA;&lt;p&gt;But OK, let’s leave aside the scolding. How will we recover our study habits? Bro, I never had one! OK, Joe, if you never had these, let&amp;rsquo;s ask some questions to evaluate our state.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rotating a video in Linux</title>
       <link>http://localhost:1313/en/blog/ffmpeg_rotate_video/</link>
       <pubDate>Fri, 25 Oct 2024 20:13:03 +0200</pubDate>
       <guid>http://localhost:1313/en/blog/ffmpeg_rotate_video/</guid>
-      <description>&lt;p&gt;Let&amp;rsquo;s say you stupidly recorded a video vertically, and when you copy it into your PC the video is saved horizontally. So, you have a vertical video, which in itself is a blasphemy already, playing horizontally. Let&amp;rsquo;s rotate this video so that it continues its sinful vertical ways. Or you can get yourself a visit to the neck doctor. After me.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/video_wrong.png&#34; alt=&#34;Vertical video rotated wrongly&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s use the wonderful ffmpeg.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Let&amp;rsquo;s say you stupidly recorded a video vertically, and when you copy it into your PC the video is saved horizontally. So, you have a vertical video, which in itself is a blasphemy already, playing horizontally. Let&amp;rsquo;s rotate this video so that it continues its sinful vertical ways. Or you can get yourself a visit to the neck doctor. After me.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/video_wrong.png&#34; alt=&#34;Vertical video rotated wrongly&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s use the wonderful ffmpeg.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Syntopical reading: How to be less wrong in my career?</title>
       <link>http://localhost:1313/en/blog/syntopical_reading_be_less_wrong/</link>
       <pubDate>Wed, 23 Oct 2024 20:47:20 +0200</pubDate>
       <guid>http://localhost:1313/en/blog/syntopical_reading_be_less_wrong/</guid>
-      <description>&lt;p&gt;I had this question: How to be less wrong in my career? To answer that question, I reflected on what I have done so far in my career and read the books below. The following are my notes from the books.&lt;/p&gt;
-&lt;h2 id=&#34;note-from-the-syntopical-reading-of-the-following-books&#34;&gt;Note from the syntopical reading of the following books&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;How to read a book by Mortimer Adler and Charles Van Doren&lt;/li&gt;
-&lt;li&gt;Seven habits of highly effective by Stephen Covey&lt;/li&gt;
-&lt;li&gt;Smartphone, dumbphone by Allen Carr&lt;/li&gt;
-&lt;li&gt;The easy way to mindfulness by Allen Carr&lt;/li&gt;
-&lt;li&gt;Good sugar, bad sugar by Allen Carr&lt;/li&gt;
-&lt;li&gt;Atomic habits by James Clear&lt;/li&gt;
-&lt;li&gt;The subtle art of not giving a fuck by Mark Manson&lt;/li&gt;
-&lt;li&gt;So good they can&amp;rsquo;t ignore you by Cal Newport&lt;/li&gt;
-&lt;li&gt;Ikigai by Hector García&lt;/li&gt;
-&lt;li&gt;The art of learning by Josh Waitzkin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The advice to follow your passion is an addiction. What could it do to us?&lt;/p&gt;</description>
+      <description>&lt;p&gt;I had this question: How to be less wrong in my career? To answer that question, I reflected on what I have done so far in my career and read the books below. The following are my notes from the books.&lt;/p&gt;&#xA;&lt;h2 id=&#34;note-from-the-syntopical-reading-of-the-following-books&#34;&gt;Note from the syntopical reading of the following books&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How to read a book by Mortimer Adler and Charles Van Doren&lt;/li&gt;&#xA;&lt;li&gt;Seven habits of highly effective by Stephen Covey&lt;/li&gt;&#xA;&lt;li&gt;Smartphone, dumbphone by Allen Carr&lt;/li&gt;&#xA;&lt;li&gt;The easy way to mindfulness by Allen Carr&lt;/li&gt;&#xA;&lt;li&gt;Good sugar, bad sugar by Allen Carr&lt;/li&gt;&#xA;&lt;li&gt;Atomic habits by James Clear&lt;/li&gt;&#xA;&lt;li&gt;The subtle art of not giving a fuck by Mark Manson&lt;/li&gt;&#xA;&lt;li&gt;So good they can&amp;rsquo;t ignore you by Cal Newport&lt;/li&gt;&#xA;&lt;li&gt;Ikigai by Hector García&lt;/li&gt;&#xA;&lt;li&gt;The art of learning by Josh Waitzkin&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The advice to follow your passion is an addiction. What could it do to us?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Invisible in the Start menu</title>
       <link>http://localhost:1313/en/blog/zotero_start_menu/</link>
       <pubDate>Fri, 18 Oct 2024 22:08:44 +0200</pubDate>
       <guid>http://localhost:1313/en/blog/zotero_start_menu/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/paint_lost_audio.png&#34; alt=&#34;Review_comment_funny_issue&#34;  /&gt;
-
-&lt;em&gt;When you install a drawing program in Linux and suddenly&amp;hellip; (ಠ_ಠ)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Imagine you have installed an application in Discover in your Kubuntu 22.04.
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/zotero_installation.png&#34; alt=&#34;alt text&#34;  /&gt;
-
-For whatever reason, you cannot find it when you are supposed to be seeing it in the start menu. Fear not.
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/zotero_not_start_menu.png&#34; alt=&#34;alt text&#34;  /&gt;
-
-So, it happens that for an application to be shown in the start it needs to be added in the directory /usr/share/applications. There are 2 questions here:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gnome3_vs_classic_ubuntu_memory_use</title>
-      <link>http://localhost:1313/en/blog/gnome3_vs_classic_ubuntu_memory_use/</link>
-      <pubDate>Fri, 18 Oct 2024 20:16:03 +0200</pubDate>
-      <guid>http://localhost:1313/en/blog/gnome3_vs_classic_ubuntu_memory_use/</guid>
-      <description>&lt;p&gt;Classic gnome is using less RAM memory&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/paint_lost_audio.png&#34; alt=&#34;Review_comment_funny_issue&#34;&gt;&#xA;&lt;em&gt;When you install a drawing program in Linux and suddenly&amp;hellip; (ಠ_ಠ)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Imagine you have installed an application in Discover in your Kubuntu 22.04.&#xA;&lt;img src=&#34;http://localhost:1313/img/zotero_installation.png&#34; alt=&#34;alt text&#34;&gt;&#xA;For whatever reason, you cannot find it when you are supposed to be seeing it in the start menu. Fear not.&#xA;&lt;img src=&#34;http://localhost:1313/img/zotero_not_start_menu.png&#34; alt=&#34;alt text&#34;&gt;&#xA;So, it happens that for an application to be shown in the start it needs to be added in the directory /usr/share/applications. There are 2 questions here:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spectacle: How to report a KDE bug?</title>
       <link>http://localhost:1313/en/blog/spectacle_bug/</link>
       <pubDate>Fri, 11 Oct 2024 18:29:10 +0201</pubDate>
       <guid>http://localhost:1313/en/blog/spectacle_bug/</guid>
-      <description>&lt;p&gt;Once upon a time, le moi was writing his Friday article. This poor soul needed a few screenshots and lo and behold his Spectacle tool presented a not so spectacular behavior. Spectacle required the following actions to make one screenshot: open Spectacle -&amp;gt; Area: Rectangular Region -&amp;gt; click on Take a New Screenshot, the mouse pointer disappears, then open again Spectacle from Super -&amp;gt; click again Take a New Screenshot, then I can see the pointer normally. So, for the price of 2 screenshots I got one. Makes sense since we are near the November&amp;rsquo;s black Friday.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Once upon a time, le moi was writing his Friday article. This poor soul needed a few screenshots and lo and behold his Spectacle tool presented a not so spectacular behavior. Spectacle required the following actions to make one screenshot: open Spectacle -&amp;gt; Area: Rectangular Region -&amp;gt; click on Take a New Screenshot, the mouse pointer disappears, then open again Spectacle from Super -&amp;gt; click again, take a New Screenshot, then I could see the pointer normally. So, for the price of 2 screenshots, I got one. Makes sense since we are near the November&amp;rsquo;s Black Friday.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hobbies for engineers</title>
       <link>http://localhost:1313/en/blog/hobbies_for_engineers/</link>
       <pubDate>Fri, 04 Oct 2024 11:01:15 +0200</pubDate>
       <guid>http://localhost:1313/en/blog/hobbies_for_engineers/</guid>
-      <description>&lt;p&gt;Do you work as an engineer and want to pick a hobby so that you can put in practice outside of work some of the math, natural and/or social science principles you have learned? Let&amp;rsquo;s take a look at some nice hobby ideas.&lt;/p&gt;
-&lt;h2 id=&#34;cars&#34;&gt;Cars&lt;/h2&gt;
-&lt;p&gt;There are many possibilities related to these vehicles. What about getting involved in the maintenance of the car? What about some modifications to the headlights, or the suspensions?&lt;/p&gt;</description>
+      <description>&lt;p&gt;Do you work as an engineer and want to pick a hobby so that you can put in practice outside of work some of the math, natural and/or social science principles you have learned? Let&amp;rsquo;s take a look at some nice hobby ideas.&lt;/p&gt;&#xA;&lt;h2 id=&#34;cars&#34;&gt;Cars&lt;/h2&gt;&#xA;&lt;p&gt;There are many possibilities related to these vehicles. What about getting involved in the maintenance of the car? What about some modifications to the headlights, or the suspensions?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spaced repetition, forgetting curve and Anki</title>
       <link>http://localhost:1313/en/blog/anki_intro/</link>
       <pubDate>Wed, 02 Oct 2024 21:56:43 +0200</pubDate>
       <guid>http://localhost:1313/en/blog/anki_intro/</guid>
-      <description>&lt;p&gt;Have you ever studied a new material, and have forgotten almost immediately after using it (for work, or for an exam)? Have you ever forgotten something you thought you had understood well? Are you trying to learn a new language and forget the new vocabulary all the time?&lt;/p&gt;
-&lt;p&gt;Well, that happens to me, as well. You are not alone. In my case, I have found a solution in the form of a technique, the so-called spaced repetition.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Have you ever studied a new material, and have forgotten almost immediately after using it (for work, or for an exam)? Have you ever forgotten something you thought you had understood well? Are you trying to learn a new language and forget the new vocabulary all the time?&lt;/p&gt;&#xA;&lt;p&gt;Well, that happens to me, as well. You are not alone. In my case, I have found a solution in the form of a technique, the so-called spaced repetition.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linux command Tail: useful for monitoring log text files</title>
       <link>http://localhost:1313/en/blog/tail_linux_ubuntu/</link>
       <pubDate>Fri, 27 Sep 2024 08:00:00 +0200</pubDate>
       <guid>http://localhost:1313/en/blog/tail_linux_ubuntu/</guid>
-      <description>&lt;p&gt;When monitoring any program logs in Ubuntu or in many Linux based operating systems one can use the tail command. The tail command outputs the last lines of a text file.&lt;/p&gt;
-&lt;p&gt;Enter the command in the shell program.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-Shell&#34; data-lang=&#34;Shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;tail /&amp;lt;path&amp;gt;/logfile.log
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;By default, the tail command will show the last 10 lines. If you want to specify the number of lines, enter the command with the flag &amp;ldquo;-n&amp;rdquo;, in the following way:&lt;/p&gt;</description>
+      <description>&lt;p&gt;When monitoring any program logs in Ubuntu or in many Linux based operating systems one can use the tail command. The tail command outputs the last lines of a text file.&lt;/p&gt;&#xA;&lt;p&gt;Enter the command in the shell program.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-Shell&#34; data-lang=&#34;Shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;tail /&amp;lt;path&amp;gt;/logfile.log&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;By default, the tail command will show the last 10 lines. If you want to specify the number of lines, enter the command with the flag &amp;ldquo;-n&amp;rdquo;, in the following way:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hood&#39;s everyday life</title>
       <link>http://localhost:1313/en/blog/vida_cotidiana/</link>
       <pubDate>Wed, 25 Sep 2024 06:11:08 +0200</pubDate>
       <guid>http://localhost:1313/en/blog/vida_cotidiana/</guid>
-      <description>&lt;p&gt;Everyday life in the hood is so much better when we tamper down our hormones. I have tested it myself.&lt;/p&gt;
-&lt;p&gt;I used to live in a hood where normal everyday people would throw trash anywhere. Furthermore, they would blast their music at eardrum-damaging volume. Moreover, you were always worried someone was going to ask you with a lack of courtesy to hand him over the nice looking belongings you were carrying, even midday.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Everyday life in the hood is so much better when we tamper down our hormones. I have tested it myself.&lt;/p&gt;&#xA;&lt;p&gt;I used to live in a hood where normal everyday people would throw trash anywhere. Furthermore, they would blast their music at eardrum-damaging volume. Moreover, you were always worried someone was going to ask you with a lack of courtesy to hand him over the nice looking belongings you were carrying, even midday.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to read a Book by Mortimer Adler</title>
       <link>http://localhost:1313/en/blog/how_to_read_a_book_ma/</link>
       <pubDate>Fri, 20 Sep 2024 18:54:18 +0200</pubDate>
       <guid>http://localhost:1313/en/blog/how_to_read_a_book_ma/</guid>
-      <description>&lt;p&gt;There is a book close to my heart because it dawned on me how below average one can act. In my search for being less stupid, I read “How to read a book by Mortimer Adler and Charles Van Doren (edition 1972)”. Let&amp;rsquo;s call this book HRB.&lt;/p&gt;
-&lt;p&gt;Notes:&lt;/p&gt;
-&lt;p&gt;This is a practical How-to book that explains how to read better if our goal is lifting our mind from understanding less to understanding more, to knowing more about life, the world, and ourselves. “Know thyself” someone said.&lt;/p&gt;</description>
+      <description>&lt;p&gt;There is a book close to my heart because it dawned on me how below average one can act. In my search for being less stupid, I read “How to read a book by Mortimer Adler and Charles Van Doren (edition 1972)”. Let&amp;rsquo;s call this book HRB.&lt;/p&gt;&#xA;&lt;p&gt;Notes:&lt;/p&gt;&#xA;&lt;p&gt;This is a practical How-to book that explains how to read better if our goal is lifting our mind from understanding less to understanding more, to knowing more about life, the world, and ourselves. “Know thyself” someone said.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/en/about/</link>
       <pubDate>Sat, 31 Aug 2024 19:55:59 +0200</pubDate>
       <guid>http://localhost:1313/en/about/</guid>
-      <description>&lt;p&gt;Updated: 20.Nov.24&lt;/p&gt;
-&lt;h3 id=&#34;now&#34;&gt;Now&lt;/h3&gt;
-&lt;p&gt;Currently, I&amp;rsquo;m working on the validation of a firmware for a Linux embedded device.&lt;/p&gt;
-&lt;h3 id=&#34;my-favorite-websites&#34;&gt;My favorite websites&lt;/h3&gt;
-&lt;p&gt;Retrogames.cz (English)
-If you are old enough like me to have played video games from the 80s and 90s, then you will enjoy this entry. This is a collection of retro games, with manuals, a few screenshots and how to play this fabulous games. I&amp;rsquo;m talking about Retrogames.cz.&lt;/p&gt;
-&lt;p&gt;Dedoimedo.com (English)
-The next one, it is my inspiration for my own blog and frankly the style I attempted to copy from. It is godly Dedoimedo.com. There, you will find tutorials about Linux, Windows, virtualization, links to his books and the life wisdom writings.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Updated: 27.Nov.26&lt;/p&gt;&#xA;&lt;h3 id=&#34;now&#34;&gt;Now&lt;/h3&gt;&#xA;&lt;p&gt;Currently, I&amp;rsquo;m working on the functional QA of the software of an EV charger.&lt;/p&gt;&#xA;&lt;h3 id=&#34;my-favorite-websites&#34;&gt;My favorite websites&lt;/h3&gt;&#xA;&lt;p&gt;Retrogames.cz (English)&#xA;If you are old enough like me to have played video games from the 80s and 90s, then you will enjoy this entry. This is a collection of retro games, with manuals, a few screenshots and how to play this fabulous games. I&amp;rsquo;m talking about Retrogames.cz.&lt;/p&gt;&#xA;&lt;p&gt;Dedoimedo.com (English)&#xA;The next one, it is my inspiration for my own blog and frankly the style I attempted to copy from. It is godly Dedoimedo.com. There, you will find tutorials about Linux, Windows, virtualization, links to his books and the life wisdom writings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ethis code</title>
+      <link>http://localhost:1313/en/blog/leadership1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/leadership1/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;Candor: What is the elephant in the room? What is something that we are avoiding to talk about that could help us move forward? What is the best place to discuss about this?&lt;/li&gt;&#xA;&lt;li&gt;Cultural awareness: In today&amp;rsquo;s globalized workforce, let&amp;rsquo;s remember that different peoples from different parts of the world behave and see the world in different ways. What can be innocent or innocuous for you, can be a big deal for someone else from another culture. Now, it is impossible to know everything cultural from every country, so what to do? Let&amp;rsquo;s state that exactly: &amp;ldquo;Hello all, I did the effort to find out about cultural differences, however, I can&amp;rsquo;t possibly know all the cultural twists that there could be between, please, is there something that it is not appropriate to discuss here, today?&amp;rdquo; But, but, Freddy, candor&amp;hellip;? Yes, yes. We will keep the candor, but we can preface it with: &amp;ldquo;Hello all, I did the effort to find out about cultural differences. We will discuss topics that we may be avoiding to talk about that could help us move forward. And, I&amp;rsquo;d like to do this in the best culturally appropriate way. Do you prefer we discuss this here or do you prefer a smaller group or even 1:1 sessions?&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Respect: Yes, let&amp;rsquo;s use radical candor, and let&amp;rsquo;s do it with a human element. Raising volume, dismissive tones, or even insults are not needed.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

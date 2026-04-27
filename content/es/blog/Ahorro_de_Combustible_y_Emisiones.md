@@ -2,7 +2,6 @@
 title = 'Ahorro de Combustible y Emisiones'
 date = 2008-06-26T19:19:20+02:00
 draft = false
-lang = 'es'
 +++
 
 Los combustibles fósiles son de los mayores contaminantes de la atmósfera terrestre. Así mismo, el indetenible aumento del petroleo hace estragos en los bolsillos de todos. No es necesario detallar aquí los aumentos de todos sus derivados, pues muy bien se conocen. Frente a esta realidad, se debe buscar todas las maneras posibles de ahorrar combustibles -y algunos “chelitos”- para reducir las emisiones de gases dañinos a la Tierra.

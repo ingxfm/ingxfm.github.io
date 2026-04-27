@@ -2,7 +2,6 @@
 title = 'USB converters: do not change your names'
 date = 2024-11-22T10:03:39+01:00
 draft = false
-lang = 'en'
 +++
 
 You need to connect 3 USB cables to an Ubuntu 22.04 workstation. These 3 USB cables are 1 UART 232TTL USB converter cable and 2 RS485 USB converter cables.

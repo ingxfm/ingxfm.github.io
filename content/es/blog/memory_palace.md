@@ -2,7 +2,6 @@
 title = 'Ejemplo con el palacio de la memoria y vocabulario japonés'
 date = 2024-11-09T20:17:24+02:00
 draft = false
-lang = 'es'
 +++
 
 Digamos que tienes que memorizar una lista de palabras en un idioma nuevo. Por ejemplo, estas palabras en japonés:

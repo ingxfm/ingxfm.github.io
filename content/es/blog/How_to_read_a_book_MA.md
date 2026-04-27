@@ -2,7 +2,6 @@
 title = 'Como leer un libro por Mortimer Adler'
 date = 2024-09-20T18:54:18+02:00
 draft = false
-lang = "es"
 +++
 
 Hay un libro cercano a mi corazón porque me hizo darme cuenta que tan debajo del promedio puedo ser. En mi búsqueda por ser menos estúpido, leí "Como leer un libro" de Mortimer Adler y Charles Van Doren. Llamemos a este libro CLL.  

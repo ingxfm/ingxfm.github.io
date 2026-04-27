@@ -2,7 +2,6 @@
 title = 'Ciencia ficción humorística'
 date = 2024-11-29T22:23:07+01:00
 draft = false
-lang = 'es'
 +++
 
 La ciencia ficción siempre ha sido un género atractivo de lectura para mi. Los escritos de Arthur C. Clarke o Isaac Asimov son historias imaginativas y poco comunes.

@@ -2,7 +2,6 @@
 title = 'Recuperando el método que nunca estuvo'
 date = 2024-10-30T19:50:24+01:00
 draft = false
-lang = 'es'
 +++
 
 Te encontraste con una nueva oportunidad de trabajo que puede subir tus ingresos al doble. Pero para acceder a ella tienes que tomar una pendeja certificación de IT en los próximos 3 meses. Tienes años que no estudias (muy mal debes mantenerte aprendiendo siempre). Más aún, trabajas de 8 a 5.

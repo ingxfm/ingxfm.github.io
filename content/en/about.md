@@ -2,13 +2,12 @@
 title = 'About'
 date = 2024-08-31T19:55:59+02:00
 draft = false
-lang = "en"
 +++
 
-Updated: 20.Nov.24
+Updated: 27.Nov.26
 
 ### Now
-Currently, I'm working on the validation of a firmware for a Linux embedded device.
+Currently, I'm working on the functional QA of the software of an EV charger. 
 
 ### My favorite websites
 Retrogames.cz (English)

@@ -2,7 +2,6 @@
 title = 'Cree en la ciencia'
 date = 2024-11-01T20:21:59+01:00
 draft = false
-lang = 'es'
 +++
 
 

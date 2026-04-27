@@ -2,7 +2,6 @@
 title = 'Example of memory palace with Japanese vocabulary'
 date = 2024-11-09T20:17:29+02:00
 draft = false
-lang = 'en'
 +++
 
 Let's say that you want to memorize vocabulary in a new language. For example, I want to know how to say a few Japanese words:

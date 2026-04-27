@@ -2,7 +2,6 @@
 title = 'No te veo en el Inicio'
 date = 2024-10-18T22:08:48+02:00
 draft = false
-lang = 'es'
 +++
 
 ![Review_comment_funny_issue](/img/paint_lost_audio.png)

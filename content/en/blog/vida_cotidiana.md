@@ -2,7 +2,6 @@
 title = "Hood's everyday life"
 date = 2024-09-25T06:11:08+02:00
 draft = false
-lang = 'en'
 +++
 
 Everyday life in the hood is so much better when we tamper down our hormones. I have tested it myself. 

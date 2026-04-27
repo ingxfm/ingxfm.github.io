@@ -2,7 +2,6 @@
 title = 'Vida cotidiana'
 date = 2024-09-25T05:16:15+02:00
 draft = false
-lang = 'es'
 +++
 
 La vida cotidiana es la mayor parte del tiempo. Los eventos importantes o trascendentales en una vida son pocos comparados con el tiempo que pasamos en actividades comunes del diario vivir. Optimizar la vida cotidiana es una buena idea para ser más eficiente. ¡Este lugar es un paraíso!, dicen algunos. Digo yo que sería un paraíso si la vida cotidiana para el ciudadano "de a pie" fuese más amena.

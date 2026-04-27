@@ -2,7 +2,6 @@
 title = 'Hobbies para ingenieros/as'
 date = 2024-10-04T11:01:10+02:00
 draft = false
-lang = 'es'
 +++
 
 ¿Trabajas como ingeniero/a y quieras encontrar un hobby en el que practiques fuera del trabajo alguno de los principios de matemáticas, ciencias naturales y sociales que has aprendido?

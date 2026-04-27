@@ -2,7 +2,6 @@
 title = 'Linux command Tail: useful for monitoring log text files'
 date = 2024-09-27T08:00:00+02:00
 draft = false
-lang = 'en'
 +++
 
 When monitoring any program logs in Ubuntu or in many Linux based operating systems one can use the tail command. The tail command outputs the last lines of a text file.

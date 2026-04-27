@@ -2,7 +2,6 @@
 title = 'Believe the science'
 date = 2024-11-01T20:21:55+01:00
 draft = false
-lang = 'en'
 +++
 
 > *What we know, we know subject to correction; we know it because all, or at least the weight, of the evidence supports it, but we are not and cannot be certain that new evidence will not sometime invalidate what we now believe is true.*

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on ingxfm</title>
     <link>http://localhost:1313/es/</link>
     <description>Recent content in Home on ingxfm</description>
-    <generator>Hugo -- 0.139.3</generator>
+    <generator>Hugo</generator>
     <language>es-419</language>
-    <copyright>Copyright © 2024</copyright>
+    <copyright>Copyright © 2026</copyright>
     <lastBuildDate>Fri, 29 Nov 2024 22:23:07 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,122 +14,70 @@
       <link>http://localhost:1313/es/blog/fun_science_fiction/</link>
       <pubDate>Fri, 29 Nov 2024 22:23:07 +0100</pubDate>
       <guid>http://localhost:1313/es/blog/fun_science_fiction/</guid>
-      <description>&lt;p&gt;La ciencia ficción siempre ha sido un género atractivo de lectura para mi. Los escritos de Arthur C. Clarke o Isaac Asimov son historias imaginativas y poco comunes.&lt;/p&gt;
-&lt;p&gt;Hace poco, descubrí dos autores que mezclan la ciencia ficción y el humor. Leerles ha sido una conmoción. Los culpables son Douglas Adams y Rob Grant.&lt;/p&gt;
-&lt;p&gt;Si puedes conseguirte una copia de &amp;ldquo;The Hitchhiker&amp;rsquo;s Guide to the Galaxy&amp;rdquo; por Adams, o &amp;ldquo;Colony&amp;rdquo; y &amp;ldquo;Incompetence&amp;rdquo; por Grant te esperan unas cuantas carcajadas. Zaphod, Arthur, los Vogons, Eddie, Harry/Cardew harán de tu día algo mucho más divertido.&lt;/p&gt;</description>
+      <description>&lt;p&gt;La ciencia ficción siempre ha sido un género atractivo de lectura para mi. Los escritos de Arthur C. Clarke o Isaac Asimov son historias imaginativas y poco comunes.&lt;/p&gt;&#xA;&lt;p&gt;Hace poco, descubrí dos autores que mezclan la ciencia ficción y el humor. Leerles ha sido una conmoción. Los culpables son Douglas Adams y Rob Grant.&lt;/p&gt;&#xA;&lt;p&gt;Si puedes conseguirte una copia de &amp;ldquo;The Hitchhiker&amp;rsquo;s Guide to the Galaxy&amp;rdquo; por Adams, o &amp;ldquo;Colony&amp;rdquo; y &amp;ldquo;Incompetence&amp;rdquo; por Grant te esperan unas cuantas carcajadas. Zaphod, Arthur, los Vogons, Eddie, Harry/Cardew harán de tu día algo mucho más divertido.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Convertidores USB: no se me cambien los nombres</title>
       <link>http://localhost:1313/es/blog/assign_usb/</link>
       <pubDate>Fri, 22 Nov 2024 10:03:34 +0100</pubDate>
       <guid>http://localhost:1313/es/blog/assign_usb/</guid>
-      <description>&lt;p&gt;Tienes que conectar 3 cables USB a una workstation con Ubuntu 22.04. Estos 3 cables USB son 1 convertidor UART 232TTL y 2 convertidores RS485 USB.&lt;/p&gt;
-&lt;p&gt;Necesitas resetear la computadora unas cuantas veces. O, a veces, necesitas desconectar los cables. Y notas que los nombres (/dev/ttyUSB0, /dev/ttyUSB1, /dev/ttyUSB2) de los puertos seriales cambian en el Ubuntu OS.&lt;/p&gt;
-&lt;p&gt;Como estas usando un programa que necesita usar los nombres, te gustaría fijar los benditos. Bueno, estas en en el lugar correcto. Vamos a hacer eso mismo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Tienes que conectar 3 cables USB a una workstation con Ubuntu 22.04. Estos 3 cables USB son 1 convertidor UART 232TTL y 2 convertidores RS485 USB.&lt;/p&gt;&#xA;&lt;p&gt;Necesitas resetear la computadora unas cuantas veces. O, a veces, necesitas desconectar los cables. Y notas que los nombres (/dev/ttyUSB0, /dev/ttyUSB1, /dev/ttyUSB2) de los puertos seriales cambian en el Ubuntu OS.&lt;/p&gt;&#xA;&lt;p&gt;Como estas usando un programa que necesita usar los nombres, te gustaría fijar los benditos. Bueno, estas en en el lugar correcto. Vamos a hacer eso mismo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mis websites favoritos</title>
       <link>http://localhost:1313/es/blog/about_page_update/</link>
       <pubDate>Wed, 20 Nov 2024 16:46:51 +0100</pubDate>
       <guid>http://localhost:1313/es/blog/about_page_update/</guid>
-      <description>&lt;p&gt;Comencemos a recopilar una lista de lugares de la World Wide Web que me han parecido útiles, divertidos y/o humoristicos. En esta primera ocasión, agregaremos 4 entradas sin ningún orden de importancia en particular. Ve a mi página &lt;a href=&#34;http://localhost:1313/es/about/&#34;&gt;Sobre mí&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;¡Salud!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Comencemos a recopilar una lista de lugares de la World Wide Web que me han parecido útiles, divertidos y/o humoristicos. En esta primera ocasión, agregaremos 4 entradas sin ningún orden de importancia en particular. Ve a mi página &lt;a href=&#34;http://localhost:1313/es/about/&#34;&gt;Sobre mí&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;¡Salud!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ejemplo con el palacio de la memoria y vocabulario japonés</title>
       <link>http://localhost:1313/es/blog/memory_palace/</link>
       <pubDate>Sat, 09 Nov 2024 20:17:24 +0200</pubDate>
       <guid>http://localhost:1313/es/blog/memory_palace/</guid>
-      <description>&lt;p&gt;Digamos que tienes que memorizar una lista de palabras en un idioma nuevo. Por ejemplo, estas palabras en japonés:&lt;/p&gt;
-&lt;p&gt;Si - Jai
-No - iie
-Gracias - arigatougotzaimasu
-Lo siento - gomennasai
-Disculpe - sumimasen&lt;/p&gt;
-&lt;p&gt;Imagínate entrando por la puerta de tu casa, y un hombre da un golpe de karate, gritando ¡&lt;strong&gt;Jaaaaaaaaiii&lt;/strong&gt;!, y rompe la puerta. El karateka diciendo que &lt;strong&gt;si&lt;/strong&gt; con movimientos de su cabeza de arriba y abajo. Luego una señora invisible aparece y le muestra un plato con un comida horrible. Aquí imagina un plato bien repugnante que no te gustaría comer, imagínalo con el color verduzco, y el olor a podrido. El karateka grita ¡&lt;strong&gt;Iiiiiiiiiiieeeee&lt;/strong&gt;! diciendo que &lt;strong&gt;no&lt;/strong&gt; con movimientos de cabeza de lado a lado, muy exagerados.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Digamos que tienes que memorizar una lista de palabras en un idioma nuevo. Por ejemplo, estas palabras en japonés:&lt;/p&gt;&#xA;&lt;p&gt;Si - Jai&#xA;No - iie&#xA;Gracias - arigatougotzaimasu&#xA;Lo siento - gomennasai&#xA;Disculpe - sumimasen&lt;/p&gt;&#xA;&lt;p&gt;Imagínate entrando por la puerta de tu casa, y un hombre da un golpe de karate, gritando ¡&lt;strong&gt;Jaaaaaaaaiii&lt;/strong&gt;!, y rompe la puerta. El karateka diciendo que &lt;strong&gt;si&lt;/strong&gt; con movimientos de su cabeza de arriba y abajo. Luego una señora invisible aparece y le muestra un plato con un comida horrible. Aquí imagina un plato bien repugnante que no te gustaría comer, imagínalo con el color verduzco, y el olor a podrido. El karateka grita ¡&lt;strong&gt;Iiiiiiiiiiieeeee&lt;/strong&gt;! diciendo que &lt;strong&gt;no&lt;/strong&gt; con movimientos de cabeza de lado a lado, muy exagerados.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cree en la ciencia</title>
       <link>http://localhost:1313/es/blog/criticizing_book/</link>
       <pubDate>Fri, 01 Nov 2024 20:21:59 +0100</pubDate>
       <guid>http://localhost:1313/es/blog/criticizing_book/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Lo que sabemos, lo sabemos sujeto a corrección; lo sabemos porque toda, o por lo menos, la mayoría de la evidencia lo respalda, pero no estamos y no podemos estar seguros de que, algún día, nueva evidencia no invalidará lo que ahora creemos que es verdad.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Mortimer Adler y Charles Van Doren.&lt;/p&gt;
-&lt;p&gt;Hasta que Einstein presentó su teoría de la relatividad, había un concepto llamado éter que se usaba para describir el comportamiento de la luz. Esta sustancia o material que permeaba todo en el espacio era un medio a través del cual la luz y la gravedad podían viajar.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Lo que sabemos, lo sabemos sujeto a corrección; lo sabemos porque toda, o por lo menos, la mayoría de la evidencia lo respalda, pero no estamos y no podemos estar seguros de que, algún día, nueva evidencia no invalidará lo que ahora creemos que es verdad.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Mortimer Adler y Charles Van Doren.&lt;/p&gt;&#xA;&lt;p&gt;Hasta que Einstein presentó su teoría de la relatividad, había un concepto llamado éter que se usaba para describir el comportamiento de la luz. Esta sustancia o material que permeaba todo en el espacio era un medio a través del cual la luz y la gravedad podían viajar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recuperando el método que nunca estuvo</title>
       <link>http://localhost:1313/es/blog/preguntas_sistema_estudio/</link>
       <pubDate>Wed, 30 Oct 2024 19:50:24 +0100</pubDate>
       <guid>http://localhost:1313/es/blog/preguntas_sistema_estudio/</guid>
-      <description>&lt;p&gt;Te encontraste con una nueva oportunidad de trabajo que puede subir tus ingresos al doble. Pero para acceder a ella tienes que tomar una pendeja certificación de IT en los próximos 3 meses. Tienes años que no estudias (muy mal debes mantenerte aprendiendo siempre). Más aún, trabajas de 8 a 5.&lt;/p&gt;
-&lt;p&gt;Pero ya, dejemos los puritanismos de lado. ¿Cómo vas recuperar tu hábito de estudios? ¡Hermano, pero si nunca lo he tenido! Ok, José, si no tienes un método de estudio, vamos a evaluar exactamente que nos hace falta.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Te encontraste con una nueva oportunidad de trabajo que puede subir tus ingresos al doble. Pero para acceder a ella tienes que tomar una pendeja certificación de IT en los próximos 3 meses. Tienes años que no estudias (muy mal debes mantenerte aprendiendo siempre). Más aún, trabajas de 8 a 5.&lt;/p&gt;&#xA;&lt;p&gt;Pero ya, dejemos los puritanismos de lado. ¿Cómo vas recuperar tu hábito de estudios? ¡Hermano, pero si nunca lo he tenido! Ok, José, si no tienes un método de estudio, vamos a evaluar exactamente que nos hace falta.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rotando un video en Linux</title>
       <link>http://localhost:1313/es/blog/ffmpeg_rotate_video/</link>
       <pubDate>Fri, 25 Oct 2024 20:13:09 +0200</pubDate>
       <guid>http://localhost:1313/es/blog/ffmpeg_rotate_video/</guid>
-      <description>&lt;p&gt;Digamos que estúpidamente grabas un video en vertical, y cuando los copias a tu computadora personal, y el video es guardado de forma horizontal. Entonces, tienes un vídeo vertical, que en si mismo ya es una blasfemia, reproduciéndose horizontalmente. Giremos el vídeo para que podamos continuar nuestra pecaminosa verticalidad. O puedes conseguirte una cita con un doctor para el cuello. ¡Vamos!
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/video_wrong.png&#34; alt=&#34;Vertical video rotated wrongly&#34;  /&gt;
-
-Usemos el magnifico program ffmpeg.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Digamos que estúpidamente grabas un video en vertical, y cuando los copias a tu computadora personal, y el video es guardado de forma horizontal. Entonces, tienes un vídeo vertical, que en si mismo ya es una blasfemia, reproduciéndose horizontalmente. Giremos el vídeo para que podamos continuar nuestra pecaminosa verticalidad. O puedes conseguirte una cita con un doctor para el cuello. ¡Vamos!&#xA;&lt;img src=&#34;http://localhost:1313/img/video_wrong.png&#34; alt=&#34;Vertical video rotated wrongly&#34;&gt;&#xA;Usemos el magnifico program ffmpeg.&lt;/p&gt;&#xA;&lt;p&gt;Hay un llamado parámetro transpose que puedes pasar con los siguientes dígitos:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lectura sintópica: ¿Cómo estar menos equivocado en mi carrera?</title>
       <link>http://localhost:1313/es/blog/syntopical_reading_be_less_wrong/</link>
       <pubDate>Wed, 23 Oct 2024 20:47:15 +0200</pubDate>
       <guid>http://localhost:1313/es/blog/syntopical_reading_be_less_wrong/</guid>
-      <description>&lt;p&gt;Tenía una pregunta: ¿Cómo estar menos equivocado con respecto a mi carrera? Para responder esa pregunta reflexione en lo que he hecho hasta ahora en mi carrera, y leí varios libros. A continuación mis notas sobre los libros.&lt;/p&gt;
-&lt;h2 id=&#34;notas-de-la-lectura-sintópica-de-los-siguientes-libros&#34;&gt;Notas de la lectura sintópica de los siguientes libros&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Como leer un libro por Mortimer Adler y Charles Van Doren&lt;/li&gt;
-&lt;li&gt;Los sietes hábitos de las personas altamente efectivas por Stephen Covey&lt;/li&gt;
-&lt;li&gt;Smartphone, dumbphone por Allen Carr&lt;/li&gt;
-&lt;li&gt;La vía fácil a la atención plena por Allen Carr&lt;/li&gt;
-&lt;li&gt;Buena azúcar, mala azúcar por Allen Carr&lt;/li&gt;
-&lt;li&gt;Hábitos atómicos por James Clear&lt;/li&gt;
-&lt;li&gt;El arte sutil de que casi todo te importe un carajo por Mark Manson&lt;/li&gt;
-&lt;li&gt;So good they can&amp;rsquo;t ignore you por Cal Newport&lt;/li&gt;
-&lt;li&gt;Ikigai por Héctor García&lt;/li&gt;
-&lt;li&gt;El arte de aprender por Josh Waitzkin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;El consejo &amp;ldquo;sigue tu pasión&amp;rdquo; es una adicción. ¿Cuáles podrían ser las consecuencias de seguir este consejo sin pensar?&lt;/p&gt;</description>
+      <description>&lt;p&gt;Tenía una pregunta: ¿Cómo estar menos equivocado con respecto a mi carrera? Para responder esa pregunta reflexione en lo que he hecho hasta ahora en mi carrera, y leí varios libros. A continuación mis notas sobre los libros.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notas-de-la-lectura-sintópica-de-los-siguientes-libros&#34;&gt;Notas de la lectura sintópica de los siguientes libros&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Como leer un libro por Mortimer Adler y Charles Van Doren&lt;/li&gt;&#xA;&lt;li&gt;Los sietes hábitos de las personas altamente efectivas por Stephen Covey&lt;/li&gt;&#xA;&lt;li&gt;Smartphone, dumbphone por Allen Carr&lt;/li&gt;&#xA;&lt;li&gt;La vía fácil a la atención plena por Allen Carr&lt;/li&gt;&#xA;&lt;li&gt;Buena azúcar, mala azúcar por Allen Carr&lt;/li&gt;&#xA;&lt;li&gt;Hábitos atómicos por James Clear&lt;/li&gt;&#xA;&lt;li&gt;El arte sutil de que casi todo te importe un carajo por Mark Manson&lt;/li&gt;&#xA;&lt;li&gt;So good they can&amp;rsquo;t ignore you por Cal Newport&lt;/li&gt;&#xA;&lt;li&gt;Ikigai por Héctor García&lt;/li&gt;&#xA;&lt;li&gt;El arte de aprender por Josh Waitzkin&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;El consejo &amp;ldquo;sigue tu pasión&amp;rdquo; es una adicción. ¿Cuáles podrían ser las consecuencias de seguir este consejo sin pensar?&lt;/p&gt;</description>
     </item>
     <item>
       <title>No te veo en el Inicio</title>
       <link>http://localhost:1313/es/blog/zotero_start_menu/</link>
       <pubDate>Fri, 18 Oct 2024 22:08:48 +0200</pubDate>
       <guid>http://localhost:1313/es/blog/zotero_start_menu/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/paint_lost_audio.png&#34; alt=&#34;Review_comment_funny_issue&#34;  /&gt;
-
-&lt;em&gt;Cuando instalas un programa para dibujar en Linux y de repente&amp;hellip; (ಠ_ಠ)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Imagina que has instalado un programa en Discover en tu Kubuntu 22.04.
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/zotero_installation.png&#34; alt=&#34;alt text&#34;  /&gt;
-
-Por alguna razón, no puedes encontrar el susodicho en el menú de Inicio. ¡Que panda el cúnico! Digo perdón, ¡que no cunda el pánico!
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/zotero_not_start_menu.png&#34; alt=&#34;alt text&#34;  /&gt;
-
-Es que para que un programa aparezca en el menú de Inicio tiene que tener una entrada de Desktop en el directorio /usr/share/applications. Surgen 2 preguntas:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gnome3_vs_classic_ubuntu_memory_use</title>
-      <link>http://localhost:1313/es/blog/gnome3_vs_classic_ubuntu_memory_use/</link>
-      <pubDate>Fri, 18 Oct 2024 20:16:09 +0200</pubDate>
-      <guid>http://localhost:1313/es/blog/gnome3_vs_classic_ubuntu_memory_use/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/paint_lost_audio.png&#34; alt=&#34;Review_comment_funny_issue&#34;&gt;&#xA;&lt;em&gt;Cuando instalas un programa para dibujar en Linux y de repente&amp;hellip; (ಠ_ಠ)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Imagina que has instalado un programa en Discover en tu Kubuntu 22.04.&#xA;&lt;img src=&#34;http://localhost:1313/img/zotero_installation.png&#34; alt=&#34;alt text&#34;&gt;&#xA;Por alguna razón, no puedes encontrar el susodicho en el menú de Inicio. ¡Que panda el cúnico! Digo perdón, ¡que no cunda el pánico!&#xA;&lt;img src=&#34;http://localhost:1313/img/zotero_not_start_menu.png&#34; alt=&#34;alt text&#34;&gt;&#xA;Es que para que un programa aparezca en el menú de Inicio tiene que tener una entrada de Desktop en el directorio /usr/share/applications. Surgen 2 preguntas:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Locos por el ruido</title>
       <link>http://localhost:1313/es/blog/locos_por_el_ruido/</link>
       <pubDate>Wed, 16 Oct 2024 21:37:53 +0200</pubDate>
       <guid>http://localhost:1313/es/blog/locos_por_el_ruido/</guid>
-      <description>&lt;p&gt;Vender libros de auto-ayuda es una pérdida de tiempo en la tierra en el mismo trayecto del sol. Dos libros de auto-ayuda por el precio de uno, más un cuaderno de crucigramas incluido. Así de felices viven los panas. Alguno de ellos son tan felices que le viven jodiendo la vida a sus compatriotas de la mano de, o mejor dicho del amplificador de un kitipo.
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/pedro-santana001.jpg&#34; alt=&#34;alt text&#34;  /&gt;
-
-¡Don, pero llame a la policía, al 9-1-1! Estoy de acuerdo. Pero a veces eso no funciona.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Vender libros de auto-ayuda es una pérdida de tiempo en la tierra en el mismo trayecto del sol. Dos libros de auto-ayuda por el precio de uno, más un cuaderno de crucigramas incluido. Así de felices viven los panas. Alguno de ellos son tan felices que le viven jodiendo la vida a sus compatriotas de la mano de, o mejor dicho del amplificador de un kitipo.&#xA;&lt;img src=&#34;http://localhost:1313/img/pedro-santana001.jpg&#34; alt=&#34;alt text&#34;&gt;&#xA;¡Don, pero llame a la policía, al 9-1-1! Estoy de acuerdo. Pero a veces eso no funciona.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spectacle: ¿Cómo reportar un defecto de software (bug)?</title>
@@ -150,77 +98,56 @@ Es que para que un programa aparezca en el menú de Inicio tiene que tener una e
       <link>http://localhost:1313/es/blog/hobbies_for_engineers/</link>
       <pubDate>Fri, 04 Oct 2024 11:01:10 +0200</pubDate>
       <guid>http://localhost:1313/es/blog/hobbies_for_engineers/</guid>
-      <description>&lt;p&gt;¿Trabajas como ingeniero/a y quieras encontrar un hobby en el que practiques fuera del trabajo alguno de los principios de matemáticas, ciencias naturales y sociales que has aprendido?&lt;/p&gt;
-&lt;h2 id=&#34;carros-coches&#34;&gt;Carros (coches)&lt;/h2&gt;
-&lt;p&gt;Las posibilidades son muchas. ¿Qué tal hacerle los mantenimientos a tu vehículo (con tus propias manos)? ¿Qué tal hacerle algunas modificaciones a las luces, o las suspensiones?&lt;/p&gt;
-&lt;p&gt;Más aún, podrías hacer casas móviles a partir de vans. Vas a tener que considerar si vas a usar aislamientos térmicos o auditivos dependiendo del clima donde quieras utilizarlas.&lt;/p&gt;</description>
+      <description>&lt;p&gt;¿Trabajas como ingeniero/a y quieras encontrar un hobby en el que practiques fuera del trabajo alguno de los principios de matemáticas, ciencias naturales y sociales que has aprendido?&lt;/p&gt;&#xA;&lt;h2 id=&#34;carros-coches&#34;&gt;Carros (coches)&lt;/h2&gt;&#xA;&lt;p&gt;Las posibilidades son muchas. ¿Qué tal hacerle los mantenimientos a tu vehículo (con tus propias manos)? ¿Qué tal hacerle algunas modificaciones a las luces, o las suspensiones?&lt;/p&gt;&#xA;&lt;p&gt;Más aún, podrías hacer casas móviles a partir de vans. Vas a tener que considerar si vas a usar aislamientos térmicos o auditivos dependiendo del clima donde quieras utilizarlas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Repetición espaciada, curva del olvido y Anki</title>
       <link>http://localhost:1313/es/blog/anki_intro/</link>
       <pubDate>Wed, 02 Oct 2024 21:56:49 +0200</pubDate>
       <guid>http://localhost:1313/es/blog/anki_intro/</guid>
-      <description>&lt;p&gt;¿Alguna vez haz estudiado un material nuevo, y lo haz olvidado casi inmediatamente después de su uso (para el trabajo o un examen en la escuela)? ¿Alguna te haz olvidado de algo que pensabas que habías entendido? ¿Estás intentando aprender un idioma nuevo y se te olvida el nuevo vocabulario frecuentemente?&lt;/p&gt;
-&lt;p&gt;Bueno, eso me pasa a mi, también. No estás solo. En mi caso, he encontrado una solución en la forma de una técnica llamada repetición espaciada.&lt;/p&gt;</description>
+      <description>&lt;p&gt;¿Alguna vez haz estudiado un material nuevo, y lo haz olvidado casi inmediatamente después de su uso (para el trabajo o un examen en la escuela)? ¿Alguna te haz olvidado de algo que pensabas que habías entendido? ¿Estás intentando aprender un idioma nuevo y se te olvida el nuevo vocabulario frecuentemente?&lt;/p&gt;&#xA;&lt;p&gt;Bueno, eso me pasa a mi, también. No estás solo. En mi caso, he encontrado una solución en la forma de una técnica llamada repetición espaciada.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comando en Linux Tail: útil para monitorear archivos de registro/log en texto</title>
       <link>http://localhost:1313/es/blog/tail_linux_ubuntu/</link>
       <pubDate>Fri, 27 Sep 2024 14:16:42 +0200</pubDate>
       <guid>http://localhost:1313/es/blog/tail_linux_ubuntu/</guid>
-      <description>&lt;p&gt;Cuando estás monitoreando los archivos de registros o logs de cualquier programa en Ubuntu y muchos otros sistemas operativos basados en Linux un comando que puedes utilizar es el tail. El comando tail imprime las últimas líneas en la terminal de Linux.&lt;/p&gt;
-&lt;p&gt;Para ello, escribe y presiona Enter en tu programa de Shell, de la forma siguiente:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-Shell&#34; data-lang=&#34;Shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;tail /&amp;lt;path&amp;gt;/logfile.log
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Por default, el comando tail muestra las últimas 10 líneas de cualquier archivo de texto. Si quieres especificar el número de líneas, podemos agregar el parámetro &amp;ldquo;-n&amp;rdquo; de la forma siguiente:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Cuando estás monitoreando los archivos de registros o logs de cualquier programa en Ubuntu y muchos otros sistemas operativos basados en Linux un comando que puedes utilizar es el tail. El comando tail imprime las últimas líneas en la terminal de Linux.&lt;/p&gt;&#xA;&lt;p&gt;Para ello, escribe y presiona Enter en tu programa de Shell, de la forma siguiente:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-Shell&#34; data-lang=&#34;Shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;tail /&amp;lt;path&amp;gt;/logfile.log&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Por default, el comando tail muestra las últimas 10 líneas de cualquier archivo de texto. Si quieres especificar el número de líneas, podemos agregar el parámetro &amp;ldquo;-n&amp;rdquo; de la forma siguiente:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vida cotidiana</title>
       <link>http://localhost:1313/es/blog/vida_cotidiana/</link>
       <pubDate>Wed, 25 Sep 2024 05:16:15 +0200</pubDate>
       <guid>http://localhost:1313/es/blog/vida_cotidiana/</guid>
-      <description>&lt;p&gt;La vida cotidiana es la mayor parte del tiempo. Los eventos importantes o trascendentales en una vida son pocos comparados con el tiempo que pasamos en actividades comunes del diario vivir. Optimizar la vida cotidiana es una buena idea para ser más eficiente. ¡Este lugar es un paraíso!, dicen algunos. Digo yo que sería un paraíso si la vida cotidiana para el ciudadano &amp;ldquo;de a pie&amp;rdquo; fuese más amena.&lt;/p&gt;
-&lt;p&gt;El ciudadano común tiene 3 problemas que no lo dejan avanzar.&lt;/p&gt;</description>
+      <description>&lt;p&gt;La vida cotidiana es la mayor parte del tiempo. Los eventos importantes o trascendentales en una vida son pocos comparados con el tiempo que pasamos en actividades comunes del diario vivir. Optimizar la vida cotidiana es una buena idea para ser más eficiente. ¡Este lugar es un paraíso!, dicen algunos. Digo yo que sería un paraíso si la vida cotidiana para el ciudadano &amp;ldquo;de a pie&amp;rdquo; fuese más amena.&lt;/p&gt;&#xA;&lt;p&gt;El ciudadano común tiene 3 problemas que no lo dejan avanzar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como leer un libro por Mortimer Adler</title>
       <link>http://localhost:1313/es/blog/how_to_read_a_book_ma/</link>
       <pubDate>Fri, 20 Sep 2024 18:54:18 +0200</pubDate>
       <guid>http://localhost:1313/es/blog/how_to_read_a_book_ma/</guid>
-      <description>&lt;p&gt;Hay un libro cercano a mi corazón porque me hizo darme cuenta que tan debajo del promedio puedo ser. En mi búsqueda por ser menos estúpido, leí &amp;ldquo;Como leer un libro&amp;rdquo; de Mortimer Adler y Charles Van Doren. Llamemos a este libro CLL.&lt;/p&gt;
-&lt;p&gt;Notas:&lt;/p&gt;
-&lt;p&gt;Este es un libro práctico del tipo &amp;ldquo;Saber-hacer&amp;rdquo; que explica como leer mejor si nuestro objetivo es elevar nuestra mente de entender menos a entender más, saber más acerca de la vida, del mundo y de nosotros mismos. &amp;ldquo;Conócete a ti mismo&amp;rdquo;, dice el dicho.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hay un libro cercano a mi corazón porque me hizo darme cuenta que tan debajo del promedio puedo ser. En mi búsqueda por ser menos estúpido, leí &amp;ldquo;Como leer un libro&amp;rdquo; de Mortimer Adler y Charles Van Doren. Llamemos a este libro CLL.&lt;/p&gt;&#xA;&lt;p&gt;Notas:&lt;/p&gt;&#xA;&lt;p&gt;Este es un libro práctico del tipo &amp;ldquo;Saber-hacer&amp;rdquo; que explica como leer mejor si nuestro objetivo es elevar nuestra mente de entender menos a entender más, saber más acerca de la vida, del mundo y de nosotros mismos. &amp;ldquo;Conócete a ti mismo&amp;rdquo;, dice el dicho.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/es/about/</link>
       <pubDate>Sat, 31 Aug 2024 19:55:59 +0200</pubDate>
       <guid>http://localhost:1313/es/about/</guid>
-      <description>&lt;p&gt;Actualizado: 20.Nov.24&lt;/p&gt;
-&lt;h3 id=&#34;ahora&#34;&gt;Ahora&lt;/h3&gt;
-&lt;p&gt;Trabajando en la validación de firmware en un dispositivo con sistema operativo Linux.&lt;/p&gt;
-&lt;h3 id=&#34;mis-websites-favoritos&#34;&gt;Mis websites favoritos&lt;/h3&gt;
-&lt;p&gt;Retrogames.cz (en inglés)
-Si eres lo suficientemente viejo como yo para haber disfrutado de los videojuegos de los 80s y 90s, entonces te va a gustar este website. Está es una colección de juegos retro, con manuales, unos cuantos screenshots y la explicación de como jugar esos dichosos juegos. Estoy hablando de Retrogames.cz.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Actualizado: 27.Nov.26&lt;/p&gt;&#xA;&lt;h3 id=&#34;ahora&#34;&gt;Ahora&lt;/h3&gt;&#xA;&lt;p&gt;Trabajando en el QA funcional del software en un cargador de vehículos eléctricos (EV charger).&lt;/p&gt;&#xA;&lt;h3 id=&#34;mis-websites-favoritos&#34;&gt;Mis websites favoritos&lt;/h3&gt;&#xA;&lt;p&gt;Retrogames.cz (en inglés)&#xA;Si eres lo suficientemente viejo como yo para haber disfrutado de los videojuegos de los 80s y 90s, entonces te va a gustar este website. Está es una colección de juegos retro, con manuales, unos cuantos screenshots y la explicación de como jugar esos dichosos juegos. Estoy hablando de Retrogames.cz.&lt;/p&gt;</description>
     </item>
     <item>
       <title>El realengo y sus beneficios</title>
       <link>http://localhost:1313/es/blog/realengo/</link>
       <pubDate>Fri, 30 Aug 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/es/blog/realengo/</guid>
-      <description>&lt;p&gt;Con regularidad, se ve andar por los predios del país a un espécimen de la fauna dominicana, el homo sapiens realengus, o cariñosamente, el realengo.&lt;/p&gt;
-&lt;p&gt;El realengo aporta beneficios al medio ambiente y a la salud pública.&lt;/p&gt;
-&lt;p&gt;De acuerdo a la RAE, el realengo es:
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/image.png&#34; alt=&#34;Definiciones de la RAE 30.08.24 https://dle.rae.es/realengo?m=form&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Haciendo un locrío de las definiciones 3 y 4, más la observación, ampliemos la definición del realengo a un holgazán o manganzón que no tiene hogar.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Con regularidad, se ve andar por los predios del país a un espécimen de la fauna dominicana, el homo sapiens realengus, o cariñosamente, el realengo.&lt;/p&gt;&#xA;&lt;p&gt;El realengo aporta beneficios al medio ambiente y a la salud pública.&lt;/p&gt;&#xA;&lt;p&gt;De acuerdo a la RAE, el realengo es:&#xA;&lt;img src=&#34;http://localhost:1313/img/image.png&#34; alt=&#34;Definiciones de la RAE 30.08.24 https://dle.rae.es/realengo?m=form&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Haciendo un locrío de las definiciones 3 y 4, más la observación, ampliemos la definición del realengo a un holgazán o manganzón que no tiene hogar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ahorro de Combustible y Emisiones</title>
       <link>http://localhost:1313/es/blog/ahorro_de_combustible_y_emisiones/</link>
       <pubDate>Thu, 26 Jun 2008 19:19:20 +0200</pubDate>
       <guid>http://localhost:1313/es/blog/ahorro_de_combustible_y_emisiones/</guid>
-      <description>&lt;p&gt;Los combustibles fósiles son de los mayores contaminantes de la atmósfera terrestre. Así mismo, el indetenible aumento del petroleo hace estragos en los bolsillos de todos. No es necesario detallar aquí los aumentos de todos sus derivados, pues muy bien se conocen. Frente a esta realidad, se debe buscar todas las maneras posibles de ahorrar combustibles -y algunos “chelitos”- para reducir las emisiones de gases dañinos a la Tierra.&lt;/p&gt;
-&lt;p&gt;En ese orden se han recopilado algunos tips que permitan reducir la cantidad de combustible utilizado:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Los combustibles fósiles son de los mayores contaminantes de la atmósfera terrestre. Así mismo, el indetenible aumento del petroleo hace estragos en los bolsillos de todos. No es necesario detallar aquí los aumentos de todos sus derivados, pues muy bien se conocen. Frente a esta realidad, se debe buscar todas las maneras posibles de ahorrar combustibles -y algunos “chelitos”- para reducir las emisiones de gases dañinos a la Tierra.&lt;/p&gt;&#xA;&lt;p&gt;En ese orden se han recopilado algunos tips que permitan reducir la cantidad de combustible utilizado:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

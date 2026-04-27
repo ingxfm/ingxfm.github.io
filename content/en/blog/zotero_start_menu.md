@@ -2,7 +2,6 @@
 title = 'Invisible in the Start menu'
 date = 2024-10-18T22:08:44+02:00
 draft = false
-lang = 'en'
 +++
 ![Review_comment_funny_issue](/img/paint_lost_audio.png)
 *When you install a drawing program in Linux and suddenly... (ಠ_ಠ)*

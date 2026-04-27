@@ -2,7 +2,6 @@
 title = 'Rotando un video en Linux'
 date = 2024-10-25T20:13:09+02:00
 draft = false
-lang = 'es'
 +++
 
 Digamos que estúpidamente grabas un video en vertical, y cuando los copias a tu computadora personal, y el video es guardado de forma horizontal. Entonces, tienes un vídeo vertical, que en si mismo ya es una blasfemia, reproduciéndose horizontalmente. Giremos el vídeo para que podamos continuar nuestra pecaminosa verticalidad. O puedes conseguirte una cita con un doctor para el cuello. ¡Vamos!

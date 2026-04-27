@@ -2,7 +2,6 @@
 title = 'Hobbies for engineers'
 date = 2024-10-04T11:01:15+02:00
 draft = false
-lang = 'en'
 +++
 
 Do you work as an engineer and want to pick a hobby so that you can put in practice outside of work some of the math, natural and/or social science principles you have learned? Let's take a look at some nice hobby ideas. 

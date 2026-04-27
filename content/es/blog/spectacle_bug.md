@@ -2,7 +2,6 @@
 title = 'Spectacle: ¿Cómo reportar un defecto de software (bug)?'
 date = 2024-10-11T18:29:10+02:00
 draft = false
-lang = 'es'
 +++
 
 Erase una vez, le moi estaba escribiendo su artículo de los Viernes. Está pobre alma necesitaba unos cuantas imágenes de pantalla, y contemplen usted que su Spectacle no presentó un comportamiento no muy espectacular. Spectacle necesitó de las siguientes acciones para hacer una sola captura de pantalla: abrir Spectacle -> Area: Rectangular Region -> hacer clic en Take a New Screenshot, el puntero del mouse desaparece y no se ve el modo de captura de pantalla, entonces tengo que abrir Spectacle de nuevo desde el menú principal con la tecla Super -> cliquear nuevamente en Take a New Screenshot, entonces pude ver el puntero y el modo de captura de pantalla normalmente. Por lo tanto, por el precio de 2 capturas, conseguí 1. Me hace sentido, ya que estamos cercanos a las ofertas del Black Friday en Noviembre.

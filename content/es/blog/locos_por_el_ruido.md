@@ -2,7 +2,6 @@
 title = 'Locos por el ruido'
 date = 2024-10-16T21:37:53+02:00
 draft = false
-lang = 'es'
 +++
 
 Vender libros de auto-ayuda es una pérdida de tiempo en la tierra en el mismo trayecto del sol. Dos libros de auto-ayuda por el precio de uno, más un cuaderno de crucigramas incluido. Así de felices viven los panas. Alguno de ellos son tan felices que le viven jodiendo la vida a sus compatriotas de la mano de, o mejor dicho del amplificador de un kitipo.

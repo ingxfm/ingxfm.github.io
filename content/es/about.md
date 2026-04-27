@@ -2,13 +2,12 @@
 title = 'About'
 date = 2024-08-31T19:55:59+02:00
 draft = false
-lang = "es"
 +++
 
-Actualizado: 20.Nov.24
+Actualizado: 27.Nov.26
 
 ### Ahora
-Trabajando en la validación de firmware en un dispositivo con sistema operativo Linux.
+Trabajando en el QA funcional del software en un cargador de vehículos eléctricos (EV charger).
 
 ### Mis websites favoritos
 Retrogames.cz (en inglés)

@@ -2,7 +2,6 @@
 title = 'Técnicas de estudio'
 date = 2024-10-09T17:19:59+02:00
 draft = false
-lang = 'es'
 +++
 
 ¿Quieres mejorar tus notas, y no sabes qué hacer? Más aún, ¿quieres mejorarlas y estudiar por menos tiempo? ¿Quieres pasar de ser un estudiante mediocre con puros 70s, a 75, 80 o quién sabe si más? ¿Quieres tener esas notas sin tener que sacrificar tu tiempo para jugar con tus amigos? O, ¿eres padre y quieres ayudar a tus hijos a mejorar un poco sus calificaciones? O, ¿eres profesora y quieres mejorar los resultados de tus estudiantes en las pruebas PISA?

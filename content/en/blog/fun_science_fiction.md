@@ -2,7 +2,6 @@
 title = 'Humorous science fiction'
 date = 2024-11-29T22:23:03+01:00
 draft = false
-lang = 'en'
 +++
 
 Science fiction has always been an attractive genre to read for me. Arthur C. Clarke's or Isaac Asimov's writings are imaginative and uncommon stories.

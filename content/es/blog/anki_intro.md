@@ -2,7 +2,6 @@
 title = 'Repetición espaciada, curva del olvido y Anki'
 date = 2024-10-02T21:56:49+02:00
 draft = false
-lang = 'es'
 +++
 
 ¿Alguna vez haz estudiado un material nuevo, y lo haz olvidado casi inmediatamente después de su uso (para el trabajo o un examen en la escuela)? ¿Alguna te haz olvidado de algo que pensabas que habías entendido? ¿Estás intentando aprender un idioma nuevo y se te olvida el nuevo vocabulario frecuentemente? 

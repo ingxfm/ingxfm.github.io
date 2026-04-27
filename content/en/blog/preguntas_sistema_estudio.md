@@ -2,7 +2,6 @@
 title = 'Recovering what never was'
 date = 2024-10-30T19:50:30+01:00
 draft = false
-lang = 'en'
 +++
 
 You found a new job opportunity that could double your income. But, to get it, you need to pass the loathsome certification exam in 3 months. Furthermore, you have years you do not study (bad, you should be constantly learning). Moreover, you work from 8 to 5.

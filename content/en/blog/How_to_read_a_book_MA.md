@@ -2,7 +2,6 @@
 title = 'How to read a Book by Mortimer Adler'
 date = 2024-09-20T18:54:18+02:00
 draft = false
-lang = "en"
 +++
 
 There is a book close to my heart because it dawned on me how below average one can act. In my search for being less stupid, I read “How to read a book by Mortimer Adler and Charles Van Doren (edition 1972)”. Let's call this book HRB.  

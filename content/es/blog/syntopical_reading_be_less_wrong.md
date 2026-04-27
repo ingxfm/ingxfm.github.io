@@ -2,7 +2,6 @@
 title = 'Lectura sintópica: ¿Cómo estar menos equivocado en mi carrera?'
 date = 2024-10-23T20:47:15+02:00
 draft = false
-lang = 'es'
 +++
 
 Tenía una pregunta: ¿Cómo estar menos equivocado con respecto a mi carrera? Para responder esa pregunta reflexione en lo que he hecho hasta ahora en mi carrera, y leí varios libros. A continuación mis notas sobre los libros.

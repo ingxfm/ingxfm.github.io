@@ -2,7 +2,6 @@
 title = 'Spaced repetition, forgetting curve and Anki'
 date = 2024-10-02T21:56:43+02:00
 draft = false
-lang = 'en'
 +++
 
 Have you ever studied a new material, and have forgotten almost immediately after using it (for work, or for an exam)? Have you ever forgotten something you thought you had understood well? Are you trying to learn a new language and forget the new vocabulary all the time?

@@ -2,7 +2,6 @@
 title = 'El realengo y sus beneficios'
 date = 2024-08-30T07:07:07+01:00
 draft = false
-lang = "es"
 +++
 
 Con regularidad, se ve andar por los predios del país a un espécimen de la fauna dominicana, el homo sapiens realengus, o cariñosamente, el realengo.
