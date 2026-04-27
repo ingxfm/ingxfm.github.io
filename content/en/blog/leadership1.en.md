@@ -1,8 +1,6 @@
 ---
 title: "Ethis code"
 build:
-  render: never
-  list: never
   publishResources: true
 ---
 
