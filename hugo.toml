@@ -47,3 +47,6 @@ defaultContentLanguageInSubdir = true
 [services]
   [services.googleAnalytics]
     ID = 'G-FLCEVDW9T3'
+
+[params]
+  disableSpecial1stPost = true
